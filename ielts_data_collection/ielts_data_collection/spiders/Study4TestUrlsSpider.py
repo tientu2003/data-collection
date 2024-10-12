@@ -4,7 +4,10 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.service import Service
 from webdriver_manager.chrome import ChromeDriverManager
 import time
+from dotenv import load_dotenv
+import os
 
+load_dotenv()
 
 class Study4TestUrlsSpider(scrapy.Spider):
     name = "study4testurls"
@@ -22,10 +25,10 @@ class Study4TestUrlsSpider(scrapy.Spider):
         self.driver.find_element(By.CLASS_NAME,"f-login-button").click()
 
         email_input = self.driver.find_element(By.ID,"email")
-        email_input.send_keys("nmjuyh26@gmail.com")
+        email_input.send_keys(os.getenv("my-account"))
 
         password_input = self.driver.find_element(By.ID,"pass")
-        password_input.send_keys("tientumega")
+        password_input.send_keys(os.getenv("my-password"))
 
         self.driver.find_element(By.ID,"loginbutton").click()
 
