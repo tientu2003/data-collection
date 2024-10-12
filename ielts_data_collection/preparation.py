@@ -30,7 +30,7 @@ email_input = driver.find_element(By.ID,"email")
 email_input.send_keys("nmjuyh26@gmail.com")
 
 password_input = driver.find_element(By.ID,"pass")
-password_input.send_keys("tientumega")
+password_input.send_keys("hardcode")
 
 driver.find_element(By.ID,"loginbutton").click()
 time.sleep(3)
