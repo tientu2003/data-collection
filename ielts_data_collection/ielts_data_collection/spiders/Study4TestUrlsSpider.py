@@ -16,7 +16,6 @@ class Study4TestUrlsSpider(scrapy.Spider):
 
         options.add_argument("--headless")  # Mở trình duyệt ở chế độ headless
 
-        # Sử dụng webdriver_manager để tự động quản lý Geckodriver
         self.driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=options)
         self.driver.get("https://study4.com/login/")
 
