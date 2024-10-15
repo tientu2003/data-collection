@@ -101,3 +101,55 @@ class IeltsDataCollectionDownloaderMiddleware:
 
     def spider_opened(self, spider):
         spider.logger.info("Spider opened: %s" % spider.name)
+
+
+from scrapy.http import HtmlResponse
+from selenium import webdriver
+from selenium.webdriver.chrome.service import Service
+from selenium.webdriver.chrome.options import Options
+from selenium.webdriver.common.by import By
+from webdriver_manager.chrome import ChromeDriverManager
+from dotenv import load_dotenv
+import os
+import time
+
+load_dotenv()
+
+class SeleniumMiddleware:
+    def __init__(self):
+        chrome_options = Options()
+        chrome_options.add_argument("--headless")  # Run in headless mode
+        chrome_options.add_argument("--disable-gpu")
+
+        # Use WebDriver Manager to handle driver installation
+        self.driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=chrome_options)
+
+        self.driver.get("https://study4.com/login/")
+
+        self.driver.find_element(By.CLASS_NAME,"f-login-button").click()
+
+        email_input = self.driver.find_element(By.ID,"email")
+        email_input.send_keys(os.getenv("my-account"))
+
+        password_input = self.driver.find_element(By.ID,"pass")
+        password_input.send_keys(os.getenv("my-password"))
+
+        self.driver.find_element(By.ID,"loginbutton").click()
+
+        time.sleep(3)
+
+        self.driver.find_element(By.XPATH,"//div[@role='button']").click()
+
+        time.sleep(2)
+
+    def process_request(self, request, spider):
+        # Selenium gets the page
+        self.driver.get(request.url)
+        body = self.driver.page_source
+
+
+        # Return a new HtmlResponse which Scrapy can process
+        return HtmlResponse(url=request.url, body=body, encoding='utf-8', request=request)
+
+    def __del__(self):
+        self.driver.quit()
