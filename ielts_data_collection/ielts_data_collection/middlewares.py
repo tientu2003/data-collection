@@ -147,7 +147,6 @@ class SeleniumMiddleware:
         self.driver.get(request.url)
         body = self.driver.page_source
 
-
         # Return a new HtmlResponse which Scrapy can process
         return HtmlResponse(url=request.url, body=body, encoding='utf-8', request=request)
 
