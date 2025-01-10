@@ -29,11 +29,12 @@ class Study4TestsSpider(scrapy.Spider):
             elif re.search("reading",div.xpath('.//h2[@class="h5"]/text()').get(),re.IGNORECASE):
                 continue
             elif re.search("listening",div.xpath('.//h2[@class="h5"]/text()').get(),re.IGNORECASE):
-                continue
-            else:
                 link = div.xpath(".//a[@href][1]/@href").get()
                 yield {
                     'url': link
                 }
+            else:
+                continue
+
 
 
