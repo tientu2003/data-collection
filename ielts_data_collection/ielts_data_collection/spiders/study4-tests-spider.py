@@ -25,14 +25,14 @@ class Study4TestsSpider(scrapy.Spider):
         divs = response.xpath('//div[@class="user-test"]')
         for div in divs:
             if re.search("writing",div.xpath('.//h2[@class="h5"]/text()').get(),re.IGNORECASE):
-                continue
-            elif re.search("reading",div.xpath('.//h2[@class="h5"]/text()').get(),re.IGNORECASE):
-                continue
-            elif re.search("listening",div.xpath('.//h2[@class="h5"]/text()').get(),re.IGNORECASE):
                 link = div.xpath(".//a[@href][1]/@href").get()
                 yield {
                     'url': link
                 }
+            elif re.search("reading",div.xpath('.//h2[@class="h5"]/text()').get(),re.IGNORECASE):
+                continue
+            elif re.search("listening",div.xpath('.//h2[@class="h5"]/text()').get(),re.IGNORECASE):
+                continue
             else:
                 continue
 

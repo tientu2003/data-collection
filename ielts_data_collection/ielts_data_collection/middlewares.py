@@ -118,7 +118,7 @@ load_dotenv()
 class SeleniumMiddleware:
     def __init__(self):
         chrome_options = Options()
-        chrome_options.add_argument("--headless")  # Run in headless mode
+        # chrome_options.add_argument("--headless")  # Run in headless mode
         chrome_options.add_argument("--disable-gpu")
 
         # Use WebDriver Manager to handle driver installation
@@ -136,7 +136,7 @@ class SeleniumMiddleware:
 
         self.driver.find_element(By.ID,"loginbutton").click()
 
-        time.sleep(3)
+        time.sleep(20)
 
         self.driver.find_element(By.XPATH,"//div[@role='button']").click()
 
