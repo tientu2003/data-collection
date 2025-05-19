@@ -1,0 +1,6676 @@
+[
+  {
+    "topic": "Home & Accommodation",
+    "type": 1,
+    "questionsOne": [
+      {
+        "number": 1,
+        "question": "What kind of house or flat do you want to live in in the future?"
+      },
+      {
+        "number": 2,
+        "question": "Are the transport facilities to your home good?"
+      },
+      {
+        "number": 3,
+        "question": "Do you prefer living in a house or a flat?"
+      },
+      {
+        "number": 4,
+        "question": "Please describe the room you live in."
+      },
+      {
+        "number": 5,
+        "question": "What part of your home do you like the most?"
+      },
+      {
+        "number": 6,
+        "question": "How long have you lived there?"
+      },
+      {
+        "number": 7,
+        "question": "Do you plan to live there for a long time?"
+      },
+      {
+        "number": 8,
+        "question": "What's the difference between where you are living now and where you have lived in the past?"
+      },
+      {
+        "number": 9,
+        "question": "Can you describe the place where you live?"
+      },
+      {
+        "number": 10,
+        "question": "What room does your family spend most of the time in?"
+      },
+      {
+        "number": 11,
+        "question": "What's your favorite room in your apartment/house?"
+      },
+      {
+        "number": 12,
+        "question": "What makes you feel pleasant in your home?"
+      },
+      {
+        "number": 13,
+        "question": "Do you think it is important to live in a comfortable environment?"
+      },
+      {
+        "number": 14,
+        "question": "Do you live in a house or a flat?"
+      },
+      {
+        "number": 15,
+        "question": "Who do you live with?"
+      },
+      {
+        "number": 16,
+        "question": "What do you usually do in your flat?"
+      }
+    ],
+    "questionTwo": [],
+    "questionThree": []
+  },
+  {
+    "topic": "Hometown",
+    "type": 1,
+    "questionsOne": [
+      {
+        "number": 1,
+        "question": "Where is your hometown?"
+      },
+      {
+        "number": 2,
+        "question": "Is that a big city or a small place?"
+      },
+      {
+        "number": 3,
+        "question": "Please describe your hometown a little."
+      },
+      {
+        "number": 4,
+        "question": "How long have you been living there?"
+      },
+      {
+        "number": 5,
+        "question": "Do you like your hometown?"
+      },
+      {
+        "number": 6,
+        "question": "Do you like living there?"
+      },
+      {
+        "number": 7,
+        "question": "What do you like the most about your hometown?"
+      },
+      {
+        "number": 8,
+        "question": "Is there anything you dislike about it?"
+      },
+      {
+        "number": 9,
+        "question": "What's your hometown famous for?"
+      },
+      {
+        "number": 10,
+        "question": "Did you learn about the history of your hometown at school?"
+      }
+    ],
+    "questionTwo": [],
+    "questionThree": []
+  },
+  {
+    "topic": "The area you live in",
+    "type": 1,
+    "questionsOne": [
+      {
+        "number": 1,
+        "question": "Do you like the area that you live in?"
+      },
+      {
+        "number": 2,
+        "question": "Where do you like to go in that area?"
+      },
+      {
+        "number": 3,
+        "question": "Do you know any famous people in your area?"
+      },
+      {
+        "number": 4,
+        "question": "What are some changes in the area recently?"
+      },
+      {
+        "number": 5,
+        "question": "Do you know any of your neighbors?"
+      },
+      {
+        "number": 6,
+        "question": "Are the people in your neighborhood nice and friendly?"
+      }
+    ],
+    "questionTwo": [],
+    "questionThree": []
+  },
+  {
+    "topic": "Social Media",
+    "type": 1,
+    "questionsOne": [
+      {
+        "number": 1,
+        "question": "Do you think you spend too much time on social media?"
+      },
+      {
+        "number": 2,
+        "question": "Do your friends use social media?"
+      },
+      {
+        "number": 3,
+        "question": "What do people often do on social media?"
+      },
+      {
+        "number": 4,
+        "question": "When did you start using social media?"
+      }
+    ],
+    "questionTwo": [],
+    "questionThree": []
+  },
+  {
+    "topic": "Work or Studies",
+    "type": 1,
+    "questionsOne": [
+      {
+        "number": 1,
+        "question": "What subjects are you studying?"
+      },
+      {
+        "number": 2,
+        "question": "Do you like your subject?"
+      },
+      {
+        "number": 3,
+        "question": "Why did you choose to study that subject?"
+      },
+      {
+        "number": 4,
+        "question": "Do you think that your subject is popular in your country?"
+      },
+      {
+        "number": 5,
+        "question": "Do you have any plans for your studies in the next five years?"
+      },
+      {
+        "number": 6,
+        "question": "What are the benefits of being your age?"
+      },
+      {
+        "number": 7,
+        "question": "Do you want to change your major?"
+      },
+      {
+        "number": 8,
+        "question": "Do you prefer to study in the mornings or in the afternoons?"
+      },
+      {
+        "number": 9,
+        "question": "How much time do you spend on your studies each week?"
+      },
+      {
+        "number": 10,
+        "question": "Are you looking forward to working?"
+      },
+      {
+        "number": 11,
+        "question": "What technology do you use when you study?"
+      },
+      {
+        "number": 12,
+        "question": "What changes would you like to see in your school?"
+      },
+      {
+        "number": 13,
+        "question": "What work do you do?"
+      },
+      {
+        "number": 14,
+        "question": "Why did you choose to do that type of work (or that job)?"
+      },
+      {
+        "number": 15,
+        "question": "Do you like your job?"
+      },
+      {
+        "number": 16,
+        "question": "What requirements did you need to meet to get your current job?"
+      },
+      {
+        "number": 17,
+        "question": "Do you have any plans for your work in the next five years?"
+      },
+      {
+        "number": 18,
+        "question": "What do you think is the most important at the moment?"
+      },
+      {
+        "number": 19,
+        "question": "Do you want to change to another job?"
+      },
+      {
+        "number": 20,
+        "question": "Do you miss being a student?"
+      },
+      {
+        "number": 21,
+        "question": "What technology do you use at work?"
+      },
+      {
+        "number": 22,
+        "question": "Who helps you the most? And how?"
+      }
+    ],
+    "questionTwo": [],
+    "questionThree": []
+  },
+  {
+    "topic": "Place of work/study",
+    "type": 1,
+    "questionsOne": [
+      {
+        "number": 1,
+        "question": "Do you prefer to work alone or in a group?"
+      },
+      {
+        "number": 2,
+        "question": "Do you prefer to work at home or in the workplace?"
+      },
+      {
+        "number": 3,
+        "question": "What part of your school do you like the most?"
+      },
+      {
+        "number": 4,
+        "question": "What is your favourite place to study?"
+      },
+      {
+        "number": 5,
+        "question": "Do you prefer to study at home or in a library?"
+      }
+    ],
+    "questionTwo": [],
+    "questionThree": []
+  },
+  {
+    "topic": "Hats and Caps",
+    "type": 1,
+    "questionsOne": [
+      {
+        "number": 1,
+        "question": "Do you like to wear hats?"
+      },
+      {
+        "number": 2,
+        "question": "Is wearing hats popular in your country?"
+      },
+      {
+        "number": 3,
+        "question": "Where do you like to buy hats?"
+      },
+      {
+        "number": 4,
+        "question": "What kinds of hats do you have?"
+      }
+    ],
+    "questionTwo": [],
+    "questionThree": []
+  },
+  {
+    "topic": "Mirrors",
+    "type": 1,
+    "questionsOne": [
+      {
+        "number": 1,
+        "question": "Would you use mirrors to decorate your room?"
+      },
+      {
+        "number": 2,
+        "question": "Do you usually take a mirror with you？"
+      },
+      {
+        "number": 3,
+        "question": "Have you ever bought mirrors?"
+      },
+      {
+        "number": 4,
+        "question": "Do you like looking at yourself in the mirror? How often?"
+      }
+    ],
+    "questionTwo": [],
+    "questionThree": []
+  },
+  {
+    "topic": "Colours",
+    "type": 1,
+    "questionsOne": [
+      {
+        "number": 1,
+        "question": "What is your favorite color?"
+      },
+      {
+        "number": 2,
+        "question": "Do you usually wear clothes in your favorite color?"
+      },
+      {
+        "number": 3,
+        "question": "Are there any colors that have a special meaning in your country?"
+      },
+      {
+        "number": 4,
+        "question": "Do you think different types of people like different colors?"
+      },
+      {
+        "number": 5,
+        "question": "What is the colour you dislike? Why?"
+      },
+      {
+        "number": 6,
+        "question": "What colours do your friends like most?"
+      },
+      {
+        "number": 7,
+        "question": "What colour makes you uncomfortable in your room?"
+      },
+      {
+        "number": 8,
+        "question": "Have you ever bought something because of its colour?"
+      }
+    ],
+    "questionTwo": [],
+    "questionThree": []
+  },
+  {
+    "topic": "Plants",
+    "type": 1,
+    "questionsOne": [
+      {
+        "number": 1,
+        "question": "Do Vietnamese people send plants as gifts?"
+      },
+      {
+        "number": 2,
+        "question": "Do you know anything about growing a plant?"
+      },
+      {
+        "number": 3,
+        "question": "What plant did you grow when you were young?"
+      },
+      {
+        "number": 4,
+        "question": "Do you keep plants at home?"
+      }
+    ],
+    "questionTwo": [],
+    "questionThree": []
+  },
+  {
+    "topic": "Sharing",
+    "type": 1,
+    "questionsOne": [
+      {
+        "number": 1,
+        "question": "Have you shared anything with others recently?"
+      },
+      {
+        "number": 2,
+        "question": "Did your parents teach you how to share when you were a child?"
+      },
+      {
+        "number": 3,
+        "question": "What kind of things do you like to share with others?"
+      },
+      {
+        "number": 4,
+        "question": "What kinds of things are not suitable for sharing?"
+      }
+    ],
+    "questionTwo": [],
+    "questionThree": []
+  },
+  {
+    "topic": "Daily routine/ Morning Time",
+    "type": 1,
+    "questionsOne": [
+      {
+        "number": 1,
+        "question": "What is your morning routine?"
+      },
+      {
+        "number": 2,
+        "question": "What is your weekend routine?"
+      },
+      {
+        "number": 2,
+        "question": "Is breakfast important?"
+      },
+      {
+        "number": 3,
+        "question": "Do you have breakfast every day?"
+      },
+      {
+        "number": 4,
+        "question": "Why is breakfast the most important meal of the day?"
+      },
+      {
+        "number": 5,
+        "question": "Do you want to change your morning routine?"
+      },
+      {
+        "number": 6,
+        "question": "Are there any differences between what you do in the morning now and what you did in the past?"
+      },
+      {
+        "number": 7,
+        "question": "Are there any differences between what you do on your weekends now and what you did in the past?"
+      }
+    ],
+    "questionTwo": [],
+    "questionThree": []
+  },
+  {
+    "topic": "Pen and Pencil",
+    "type": 1,
+    "questionsOne": [
+      {
+        "number": 1,
+        "question": "Do you usually use a pen or pencil?"
+      },
+      {
+        "number": 2,
+        "question": "Which do you use more often? Pen or pencil?"
+      },
+      {
+        "number": 3,
+        "question": "When was the last time you bought a pen or pencil?"
+      },
+      {
+        "number": 4,
+        "question": "What do you think if someone sends you a pen or pencil as a gift?"
+      }
+    ],
+    "questionTwo": [],
+    "questionThree": []
+  },
+  {
+    "topic": "Advertisements/commercials",
+    "type": 1,
+    "questionsOne": [
+      {
+        "number": 1,
+        "question": "Do you often remember advertisements/commercials that you’ve seen? (Why/Why not?)"
+      },
+      {
+        "number": 2,
+        "question": "What do you usually do when an advertisement/a commercial comes on TV or the internet? (Why/Why not?)"
+      },
+      {
+        "number": 3,
+        "question": "Have you ever seen advertisements/commercials that you really didn’t like? (Why?)"
+      },
+      {
+        "number": 4,
+        "question": "Would you like to be in advertisements/commercials one day? (What kind/Why/Why not?)"
+      },
+      {
+        "number": 5,
+        "question": "What kind of advertising do you like?"
+      },
+      {
+        "number": 6,
+        "question": "Do you like advertisements?"
+      },
+      {
+        "number": 7,
+        "question": "Do you see a lot of advertising on trains or other transport?"
+      },
+      {
+        "number": 8,
+        "question": "Is there an advertisement that made an impression on you when you were a child?"
+      }
+    ],
+    "questionTwo": [],
+    "questionThree": []
+  },
+  {
+    "topic": "Swimming",
+    "type": 1,
+    "questionsOne": [
+      {
+        "number": 1,
+        "question": "Do you like swimming?"
+      },
+      {
+        "number": 2,
+        "question": "Where do people go swimming in your hometown?"
+      },
+      {
+        "number": 3,
+        "question": "Is swimming popular in your country?"
+      },
+      {
+        "number": 4,
+        "question": "Why do many people like swimming?"
+      },
+      {
+        "number": 5,
+        "question": "What's the difference between swimming in the pool and swimming in the sea?"
+      }
+    ],
+    "questionTwo": [],
+    "questionThree": []
+  },
+  {
+    "topic": "Boredom",
+    "type": 1,
+    "questionsOne": [
+      {
+        "number": 1,
+        "question": "Do you often feel bored? (Why/Why not?)"
+      },
+      {
+        "number": 2,
+        "question": "Did you ever find school boring, when you were a child? (Why/Why not?)"
+      },
+      {
+        "number": 3,
+        "question": "What sort of things do you find most boring now?(Why/Why not?)"
+      },
+      {
+        "number": 4,
+        "question": "What do you do to stop yourself feeling bored?( Why/Why not?)"
+      },
+      {
+        "number": 5,
+        "question": "Do you think childhood is boring or adulthood is boring?"
+      },
+      {
+        "number": 6,
+        "question": "What do you do when you feel bored?"
+      },
+      {
+        "number": 7,
+        "question": "When would you feel bored?"
+      }
+    ],
+    "questionTwo": [],
+    "questionThree": []
+  },
+  {
+    "topic": "Friends",
+    "type": 1,
+    "questionsOne": [
+      {
+        "number": 1,
+        "question": "How important are friends to you?"
+      },
+      {
+        "number": 2,
+        "question": "Do you often go out with your friends?"
+      },
+      {
+        "number": 3,
+        "question": "Where do you often meet each other?"
+      },
+      {
+        "number": 4,
+        "question": "What do you usually do with your friends?"
+      },
+      {
+        "number": 5,
+        "question": "Do you have a friend you have known for a long time?"
+      },
+      {
+        "number": 6,
+        "question": "Would you invite friends to your home?"
+      },
+      {
+        "number": 7,
+        "question": "Do you prefer to spend time with one friend or with a group of friends?"
+      }
+    ],
+    "questionTwo": [],
+    "questionThree": []
+  },
+  {
+    "topic": "Number & Maths",
+    "type": 1,
+    "questionsOne": [
+      {
+        "number": 1,
+        "question": "What numbers do you like?"
+      },
+      {
+        "number": 2,
+        "question": "What numbers are important to you?"
+      },
+      {
+        "number": 3,
+        "question": "Are you good at remembering telephone numbers?"
+      },
+      {
+        "number": 4,
+        "question": "Do you need to use numbers in the future?"
+      },
+      {
+        "number": 5,
+        "question": "Do you like learning mathematics?"
+      },
+      {
+        "number": 6,
+        "question": "Do you think it’s difficult to learn mathematics well?"
+      },
+      {
+        "number": 7,
+        "question": "Do you usually use numbers?"
+      },
+      {
+        "number": 8,
+        "question": "What's your favorite number?"
+      }
+    ],
+    "questionTwo": [],
+    "questionThree": []
+  },
+  {
+    "topic": "Relaxing",
+    "type": 1,
+    "questionsOne": [
+      {
+        "number": 1,
+        "question": "What would you do to relax?"
+      },
+      {
+        "number": 2,
+        "question": "Do you think doing sports is a good way to relax?"
+      },
+      {
+        "number": 3,
+        "question": "Do you think vacation is a good time to relax?"
+      },
+      {
+        "number": 4,
+        "question": "Do you think students need more relaxing time?"
+      },
+      {
+        "number": 5,
+        "question": "Do you often feel relaxed?"
+      },
+      {
+        "number": 6,
+        "question": "Does listening to music make you feel relaxed?"
+      },
+      {
+        "number": 7,
+        "question": "What kinds of places or environments would make you feel relaxed?"
+      },
+      {
+        "number": 8,
+        "question": "Are you a cool-headed person?"
+      }
+    ],
+    "questionTwo": [],
+    "questionThree": []
+  },
+  {
+    "topic": "Holidays",
+    "type": 1,
+    "questionsOne": [
+      {
+        "number": 1,
+        "question": "Where did you go for your last holiday?"
+      },
+      {
+        "number": 2,
+        "question": "Do you like holidays? Why?"
+      },
+      {
+        "number": 3,
+        "question": "Which public holiday do you like best?"
+      },
+      {
+        "number": 4,
+        "question": "Would you prefer an exciting holiday or a peaceful holiday?"
+      },
+      {
+        "number": 5,
+        "question": "Do you prefer a leisurely or a busy holiday?"
+      },
+      {
+        "number": 6,
+        "question": "Do you like to spend your day at home?"
+      },
+      {
+        "number": 7,
+        "question": "What do you do on holidays?"
+      }
+    ],
+    "questionTwo": [],
+    "questionThree": []
+  },
+  {
+    "topic": "Science",
+    "type": 1,
+    "questionsOne": [
+      {
+        "number": 1,
+        "question": "Did you like studying science when you were at school? [Why/Why not?]"
+      },
+      {
+        "number": 2,
+        "question": "What do you remember about your science teachers at school?"
+      },
+      {
+        "number": 3,
+        "question": "How interested are you in science now? [Why/Why not?]"
+      },
+      {
+        "number": 4,
+        "question": "What do you think has been an important recent scientific development? [Why?]"
+      },
+      {
+        "number": 5,
+        "question": "When did you start to learn science?"
+      },
+      {
+        "number": 6,
+        "question": "What is your favorite science subject?"
+      },
+      {
+        "number": 7,
+        "question": "Is there any technology that you think is helpful in daily life?"
+      },
+      {
+        "number": 8,
+        "question": "Do you think science classes are important?"
+      },
+      {
+        "number": 9,
+        "question": "Do you like science?"
+      },
+      {
+        "number": 10,
+        "question": "What kinds of interesting things have you done with science?"
+      },
+      {
+        "number": 11,
+        "question": "Do you like watching science TV programs?"
+      },
+      {
+        "number": 12,
+        "question": "Do Vietnamese people often visit science museums?"
+      }
+    ],
+    "questionTwo": [],
+    "questionThree": []
+  },
+  {
+    "topic": "Daily routine",
+    "type": 1,
+    "questionsOne": [
+      {
+        "number": 1,
+        "question": "Do you often go to bed late or early?"
+      },
+      {
+        "number": 2,
+        "question": "What part of your day do you like best?"
+      },
+      {
+        "number": 3,
+        "question": "Do you think it is important to have a daily routine for your study?"
+      },
+      {
+        "number": 4,
+        "question": "Have you ever changed your routine?"
+      },
+      {
+        "number": 5,
+        "question": "What is your daily study routine?"
+      }
+    ],
+    "questionTwo": [],
+    "questionThree": []
+  },
+  {
+    "topic": "Sports",
+    "type": 1,
+    "questionsOne": [
+      {
+        "number": 1,
+        "question": "What sports do you like?"
+      },
+      {
+        "number": 2,
+        "question": "Where did you learn how to do it?"
+      },
+      {
+        "number": 3,
+        "question": "Did you do some sports when you were young?"
+      },
+      {
+        "number": 4,
+        "question": "Do you think students need more exercise?"
+      },
+      {
+        "number": 5,
+        "question": "Do you know any people who are good at sports?"
+      },
+      {
+        "number": 6,
+        "question": "Do you think it is important for people to exercise?"
+      },
+      {
+        "number": 7,
+        "question": "Have you ever supported a sports team? (Why/ Why not?)"
+      },
+      {
+        "number": 8,
+        "question": "Do you enjoy watching sports? (Why/Why not?)"
+      },
+      {
+        "number": 9,
+        "question": "Do you think there is too much sport on television in your country? (Why/Why not?)"
+      },
+      {
+        "number": 10,
+        "question": "Do you know any schoolmates who are good at sports?"
+      },
+      {
+        "number": 11,
+        "question": "Should schools encourage young students to take more physical exercise?"
+      }
+    ],
+    "questionTwo": [],
+    "questionThree": []
+  },
+  {
+    "topic": "Weekend",
+    "type": 1,
+    "questionsOne": [
+      {
+        "number": 1,
+        "question": "Do you like weekends?"
+      },
+      {
+        "number": 2,
+        "question": "What do you usually do on weekends?"
+      },
+      {
+        "number": 3,
+        "question": "Do you study or work on weekends?"
+      },
+      {
+        "number": 4,
+        "question": "What did you do last weekend?"
+      },
+      {
+        "number": 5,
+        "question": "Do you make plans for your weekends?"
+      }
+    ],
+    "questionTwo": [],
+    "questionThree": []
+  },
+  {
+    "topic": "T-shirts",
+    "type": 1,
+    "questionsOne": [
+      {
+        "number": 1,
+        "question": "Do you like wearing T-shirts?"
+      },
+      {
+        "number": 2,
+        "question": "How often do you wear T-shirts?"
+      },
+      {
+        "number": 3,
+        "question": "Do you like T-shirts with pictures or prints?"
+      },
+      {
+        "number": 4,
+        "question": "Do you think older people who wear T-shirts are fashionable?"
+      },
+      {
+        "number": 5,
+        "question": "Would you buy T-shirts as souvenirs on vacation?"
+      },
+      {
+        "number": 6,
+        "question": "Did you often wear T-shirts when you were a child?"
+      }
+    ],
+    "questionTwo": [],
+    "questionThree": []
+  },
+  {
+    "topic": "Happy things",
+    "type": 1,
+    "questionsOne": [
+      {
+        "number": 1,
+        "question": "Is there anything that has made you feel happy lately?"
+      },
+      {
+        "number": 2,
+        "question": "What made you happy when you were little?"
+      },
+      {
+        "number": 3,
+        "question": "What do you think will make you feel happy in the future?"
+      },
+      {
+        "number": 4,
+        "question": "When do you feel happy at work? Why?"
+      },
+      {
+        "number": 5,
+        "question": "Do you feel happy when buying new things?"
+      },
+      {
+        "number": 6,
+        "question": "Do you think people are happy when buying new things?"
+      },
+      {
+        "number": 7,
+        "question": "What hobbies or activities make you feel happy now?"
+      }
+    ],
+    "questionTwo": [],
+    "questionThree": []
+  },
+  {
+    "topic": "The city you live in",
+    "type": 1,
+    "questionsOne": [
+      {
+        "number": 1,
+        "question": "What city do you live in?"
+      },
+      {
+        "number": 2,
+        "question": "Do you like this city? Why?"
+      },
+      {
+        "number": 3,
+        "question": "How long have you lived in this city?"
+      },
+      {
+        "number": 4,
+        "question": "Are there big changes in this city?"
+      },
+      {
+        "number": 5,
+        "question": "Is this city your permanent residence?"
+      },
+      {
+        "number": 6,
+        "question": "Would you recommend your city to others?"
+      },
+      {
+        "number": 7,
+        "question": "What's the weather like where you live?"
+      },
+      {
+        "number": 8,
+        "question": "Do you often see your neighbors?"
+      },
+      {
+        "number": 9,
+        "question": "Is the city friendly to children and old people?"
+      },
+      {
+        "number": 10,
+        "question": "Are the people friendly in the city?"
+      },
+      {
+        "number": 11,
+        "question": "Are there people of different ages living in this city?"
+      }
+    ],
+    "questionTwo": [],
+    "questionThree": []
+  },
+  {
+    "topic": "Language",
+    "type": 1,
+    "questionsOne": [
+      {
+        "number": 1,
+        "question": "What languages can you speak?"
+      },
+      {
+        "number": 2,
+        "question": "What languages would you like to learn in the future?"
+      },
+      {
+        "number": 3,
+        "question": "How do you learn a foreign language?"
+      },
+      {
+        "number": 4,
+        "question": "How are languages taught and learned in your school?"
+      },
+      {
+        "number": 5,
+        "question": "Do you think English is an easy or difficult language to learn? (Why?)"
+      },
+      {
+        "number": 6,
+        "question": "How did you learn English?"
+      },
+      {
+        "number": 7,
+        "question": "Would you like to learn any other languages? (Why /Why not?)"
+      }
+    ],
+    "questionTwo": [],
+    "questionThree": []
+  },
+  {
+    "topic": "Films",
+    "type": 1,
+    "questionsOne": [
+      {
+        "number": 1,
+        "question": "What films do you like?"
+      },
+      {
+        "number": 2,
+        "question": "Did you often watch films when you were a child?"
+      },
+      {
+        "number": 3,
+        "question": "Did you ever go to the cinema alone as a child?"
+      },
+      {
+        "number": 4,
+        "question": "Do you often go to the cinema with your friends?"
+      },
+      {
+        "number": 5,
+        "question": "Do you think going to the cinema is a good way to spend time with friends?"
+      },
+      {
+        "number": 6,
+        "question": "Do you prefer to watch films at home or in the cinema?"
+      },
+      {
+        "number": 7,
+        "question": "How often do you watch films?"
+      }
+    ],
+    "questionTwo": [],
+    "questionThree": []
+  },
+  {
+    "topic": "The Internet",
+    "type": 1,
+    "questionsOne": [
+      {
+        "number": 1,
+        "question": "When did you start using the Internet?"
+      },
+      {
+        "number": 2,
+        "question": "How often do you use the Internet?"
+      },
+      {
+        "number": 3,
+        "question": "Do you use the Internet much during the day?"
+      },
+      {
+        "number": 4,
+        "question": "How does the Internet influence people?"
+      },
+      {
+        "number": 5,
+        "question": "What would you do without the Internet?"
+      }
+    ],
+    "questionTwo": [],
+    "questionThree": []
+  },
+  {
+    "topic": "Breakfast",
+    "type": 1,
+    "questionsOne": [
+      {
+        "number": 1,
+        "question": "Would you like to change your morning routine?"
+      },
+      {
+        "number": 2,
+        "question": "Are there any differences between the mornings of your childhood and now?"
+      },
+      {
+        "number": 3,
+        "question": "Do you think breakfast is important?"
+      },
+      {
+        "number": 4,
+        "question": "What do you usually eat for breakfast?"
+      }
+    ],
+    "questionTwo": [],
+    "questionThree": []
+  },
+  {
+    "topic": "Music/Musical instruments",
+    "type": 1,
+    "questionsOne": [
+      {
+        "number": 1,
+        "question": "Do you like music? (Why/Why not?)"
+      },
+      {
+        "number": 2,
+        "question": "What kind of music is there in Vietnam?"
+      },
+      {
+        "number": 3,
+        "question": "What type of music do you like to listen to when you are alone? Why?"
+      },
+      {
+        "number": 4,
+        "question": "How do you think music will be in the future?"
+      },
+      {
+        "number": 5,
+        "question": "Do you think older and younger generations prefer different types of music?"
+      },
+      {
+        "number": 6,
+        "question": "Is there any music concert that you want to go to?"
+      },
+      {
+        "number": 7,
+        "question": "Do schools in your country have music lessons?"
+      },
+      {
+        "number": 8,
+        "question": "Do a lot of people like music?"
+      },
+      {
+        "number": 9,
+        "question": "Do you think music education is important for children?"
+      },
+      {
+        "number": 10,
+        "question": "Do you think children should learn to play an instrument at school?"
+      },
+      {
+        "number": 11,
+        "question": "What musical instruments do you enjoy listening to the most?"
+      },
+      {
+        "number": 12,
+        "question": "Have you ever learned to play a musical instrument?"
+      }
+    ],
+    "questionTwo": [],
+    "questionThree": []
+  },
+  {
+    "topic": "News",
+    "type": 1,
+    "questionsOne": [
+      {
+        "number": 1,
+        "question": "Do you read the news?"
+      },
+      {
+        "number": 2,
+        "question": "Do famous people often appear in the news?"
+      },
+      {
+        "number": 3,
+        "question": "Do you like to follow celebrities in the news?"
+      },
+      {
+        "number": 4,
+        "question": "Do you think what is said in the news is correct?"
+      },
+      {
+        "number": 5,
+        "question": "Do you often talk with your friends about the news?"
+      },
+      {
+        "number": 6,
+        "question": "Have you read the news this morning?"
+      },
+      {
+        "number": 7,
+        "question": "How do your friends get news?"
+      },
+      {
+        "number": 8,
+        "question": "How do you usually find news?"
+      },
+      {
+        "number": 9,
+        "question": "Are you interested in news?"
+      }
+    ],
+    "questionTwo": [],
+    "questionThree": []
+  },
+  {
+    "topic": "E-books and paper books",
+    "type": 1,
+    "questionsOne": [
+      {
+        "number": 1,
+        "question": "Do you think paper books will disappear in the future?"
+      },
+      {
+        "number": 2,
+        "question": "Will you read more online in the future?"
+      },
+      {
+        "number": 3,
+        "question": "What do you usually read online?"
+      },
+      {
+        "number": 4,
+        "question": "Which do you prefer, e-books or paper books?"
+      }
+    ],
+    "questionTwo": [],
+    "questionThree": []
+  },
+  {
+    "topic": "Exciting activities",
+    "type": 1,
+    "questionsOne": [
+      {
+        "number": 1,
+        "question": "Would you like to try scuba diving and bungee jumping?"
+      },
+      {
+        "number": 2,
+        "question": "Has anything exciting happened to you recently?"
+      },
+      {
+        "number": 3,
+        "question": "What do you think were exciting activities when you were a child?"
+      },
+      {
+        "number": 4,
+        "question": "Have you ever tried any exciting activities?"
+      }
+    ],
+    "questionTwo": [],
+    "questionThree": []
+  },
+  {
+    "topic": "Schools and workplaces",
+    "type": 1,
+    "questionsOne": [
+      {
+        "number": 1,
+        "question": "Where is your school?"
+      },
+      {
+        "number": 2,
+        "question": "Do you like your school?"
+      },
+      {
+        "number": 3,
+        "question": "Do you think your school is a good place to study?"
+      },
+      {
+        "number": 4,
+        "question": "What is the environment like at your school?"
+      },
+      {
+        "number": 5,
+        "question": "What do you think could be improved in your school?"
+      },
+      {
+        "number": 6,
+        "question": "How important is interest in study?"
+      },
+      {
+        "number": 7,
+        "question": "Which subject do you find challenging?"
+      },
+      {
+        "number": 8,
+        "question": "Do you like your job?"
+      },
+      {
+        "number": 9,
+        "question": "Do you currently have a good work environment?"
+      },
+      {
+        "number": 10,
+        "question": "What do you think could be improved at your workplace?"
+      },
+      {
+        "number": 11,
+        "question": "What do you think would be challenging when you start working in the future?"
+      },
+      {
+        "number": 12,
+        "question": "Is there a place in your company that makes you feel relaxed?"
+      },
+      {
+        "number": 13,
+        "question": "What are the advantages of a company having a relaxation room?"
+      },
+      {
+        "number": 14,
+        "question": "Have you ever thought about changing jobs?"
+      },
+      {
+        "number": 15,
+        "question": "How do you go to work?"
+      },
+      {
+        "number": 16,
+        "question": "How do you go to school?"
+      }
+    ],
+    "questionTwo": [],
+    "questionThree": []
+  },
+  {
+    "topic": "Laughing",
+    "type": 1,
+    "questionsOne": [
+      {
+        "number": 1,
+        "question": "When was the last time you laughed?"
+      },
+      {
+        "number": 2,
+        "question": "Do you always laugh at funny things?"
+      },
+      {
+        "number": 3,
+        "question": "Are you a person who often makes others laugh?"
+      },
+      {
+        "number": 4,
+        "question": "Do you think you are a funny person?"
+      },
+      {
+        "number": 5,
+        "question": "Do you enjoy watching interesting and funny movies?"
+      }
+    ],
+    "questionTwo": [],
+    "questionThree": []
+  },
+  {
+    "topic": "Mobile Phone",
+    "type": 1,
+    "questionsOne": [
+      {
+        "number": 1,
+        "question": "Do you remember your first mobile phone?"
+      },
+      {
+        "number": 2,
+        "question": "Do you often use your mobile phone for texting or making phone calls?"
+      },
+      {
+        "number": 3,
+        "question": "How have mobile phones changed your life?"
+      },
+      {
+        "number": 4,
+        "question": "Will you buy a new one in the future?"
+      },
+      {
+        "number": 5,
+        "question": "What was your first mobile phone?"
+      }
+    ],
+    "questionTwo": [],
+    "questionThree": []
+  },
+  {
+    "topic": "Websites",
+    "type": 1,
+    "questionsOne": [
+      {
+        "number": 1,
+        "question": "What kinds of websites are popular in your country?"
+      },
+      {
+        "number": 2,
+        "question": "Are there any changes to the websites you often visit?"
+      },
+      {
+        "number": 3,
+        "question": "What is your favourite website?"
+      },
+      {
+        "number": 4,
+        "question": "What kinds of websites do you often visit?"
+      }
+    ],
+    "questionTwo": [],
+    "questionThree": []
+  },
+  {
+    "topic": "Make Plans & Time management",
+    "type": 1,
+    "questionsOne": [
+      {
+        "number": 1,
+        "question": "Do you usually make plans?"
+      },
+      {
+        "number": 2,
+        "question": "What about your time management ability?"
+      },
+      {
+        "number": 3,
+        "question": "Is it easy to manage time for you?"
+      },
+      {
+        "number": 4,
+        "question": "Do you like planning things?"
+      },
+      {
+        "number": 5,
+        "question": "Why can’t you make plans?"
+      },
+      {
+        "number": 6,
+        "question": "Do you like doing things step by step or making a long-term plan?"
+      },
+      {
+        "number": 7,
+        "question": "Do you like being busy?"
+      },
+      {
+        "number": 8,
+        "question": "When do you find it hard to allocate time?"
+      },
+      {
+        "number": 9,
+        "question": "How do you plan your time in a day?"
+      }
+    ],
+    "questionTwo": [],
+    "questionThree": []
+  },
+  {
+    "topic": "Books and Reading Habits",
+    "type": 1,
+    "questionsOne": [
+      {
+        "number": 1,
+        "question": "Which do you prefer, reading books or watching movies?"
+      },
+      {
+        "number": 2,
+        "question": "Have you ever read a novel that has been adapted into a film?"
+      },
+      {
+        "number": 3,
+        "question": "Are your reading habits now different than before?"
+      },
+      {
+        "number": 4,
+        "question": "Do you often read books? When?"
+      },
+      {
+        "number": 5,
+        "question": "Do you read more or less now than when you were younger?"
+      }
+    ],
+    "questionTwo": [],
+    "questionThree": []
+  },
+  {
+    "topic": "Sitting",
+    "type": 1,
+    "questionsOne": [
+      {
+        "number": 1,
+        "question": "Do you find it easy to fall asleep when sitting on a sofa?"
+      },
+      {
+        "number": 2,
+        "question": "When you were a kid, did you usually sit on the floor?"
+      },
+      {
+        "number": 3,
+        "question": "Do you feel sleepy when you are sitting down?"
+      },
+      {
+        "number": 4,
+        "question": "Do you always sit down for a long time?"
+      },
+      {
+        "number": 5,
+        "question": "Which is your favorite place to sit?"
+      }
+    ],
+    "questionTwo": [],
+    "questionThree": []
+  },
+  {
+    "topic": "Computers",
+    "type": 1,
+    "questionsOne": [
+      {
+        "number": 1,
+        "question": "In what conditions would it be difficult for you to use a computer?"
+      },
+      {
+        "number": 2,
+        "question": "What would your life be like without computers?"
+      },
+      {
+        "number": 3,
+        "question": "When was the first time you used a computer?"
+      },
+      {
+        "number": 4,
+        "question": "In what conditions would you use a computer?"
+      }
+    ],
+    "questionTwo": [],
+    "questionThree": []
+  },
+  {
+    "topic": "Evenings",
+    "type": 1,
+    "questionsOne": [
+      {
+        "number": 1,
+        "question": "What do you usually do in the evening?"
+      },
+      {
+        "number": 2,
+        "question": "Do you spend your evenings in the same way on weekdays and at weekends? (Why/why not?)"
+      },
+      {
+        "number": 3,
+        "question": "How did you spend your evenings when you were younger? (Why/Why not?)"
+      },
+      {
+        "number": 4,
+        "question": "Is there anything you don’t like to do in the evenings? (Why/Why not?)"
+      },
+      {
+        "number": 5,
+        "question": "Do you like the morning or evening?"
+      },
+      {
+        "number": 6,
+        "question": "Are there any differences between what you do in the evening now and what you did in the past?"
+      }
+    ],
+    "questionTwo": [],
+    "questionThree": []
+  },
+  {
+    "topic": "Cars",
+    "type": 1,
+    "questionsOne": [
+      {
+        "number": 1,
+        "question": "Do you think car colours are important?"
+      },
+      {
+        "number": 2,
+        "question": "What do you usually do when there is a traffic jam?"
+      },
+      {
+        "number": 3,
+        "question": "Do you prefer to be a driver or a passenger?"
+      },
+      {
+        "number": 4,
+        "question": "What types of cars do you like?"
+      },
+      {
+        "number": 5,
+        "question": "Did you enjoy traveling by car when you were a kid?"
+      }
+    ],
+    "questionTwo": [],
+    "questionThree": []
+  },
+  {
+    "topic": "Talents",
+    "type": 1,
+    "questionsOne": [
+      {
+        "number": 1,
+        "question": "Do you have a talent or something you are good at?"
+      },
+      {
+        "number": 2,
+        "question": "Was it mastered recently or when you were young?"
+      },
+      {
+        "number": 3,
+        "question": "Do you think anyone in your family has the same talent?"
+      },
+      {
+        "number": 4,
+        "question": "Do you think your talent can be useful for your future work? Why?"
+      }
+    ],
+    "questionTwo": [],
+    "questionThree": []
+  },
+  {
+    "topic": "Watches",
+    "type": 1,
+    "questionsOne": [
+      {
+        "number": 1,
+        "question": "Did you wear a watch when you were a child? (Why/Why not?)"
+      },
+      {
+        "number": 2,
+        "question": "Have you ever received a watch as a gift?"
+      },
+      {
+        "number": 3,
+        "question": "Do you usually wear a watch now? (Why/Why not?)"
+      },
+      {
+        "number": 4,
+        "question": "Why do you think some people enjoy wearing expensive watches?"
+      },
+      {
+        "number": 5,
+        "question": "Do you think it is important to wear a watch? Why?"
+      }
+    ],
+    "questionTwo": [],
+    "questionThree": []
+  },
+  {
+    "topic": "Old buildings",
+    "type": 1,
+    "questionsOne": [
+      {
+        "number": 1,
+        "question": "Are there any old buildings you want to visit in the future? Why?"
+      },
+      {
+        "number": 2,
+        "question": "Do you prefer living in an old building or a modern house？"
+      },
+      {
+        "number": 3,
+        "question": "Do you think we should preserve old buildings in cities？"
+      },
+      {
+        "number": 4,
+        "question": "Have you ever seen old buildings in the city?"
+      }
+    ],
+    "questionTwo": [],
+    "questionThree": []
+  },
+  {
+    "topic": "Lost and Found",
+    "type": 1,
+    "questionsOne": [
+      {
+        "number": 1,
+        "question": "Will you post on social media if you lose your item?"
+      },
+      {
+        "number": 2,
+        "question": "Have you ever lost things?"
+      },
+      {
+        "number": 3,
+        "question": "Do you report to the police when finding something lost by others? Why?"
+      },
+      {
+        "number": 4,
+        "question": "What will you do if you find something lost by others?"
+      }
+    ],
+    "questionTwo": [],
+    "questionThree": []
+  },
+  {
+    "topic": "Staying at home",
+    "type": 1,
+    "questionsOne": [
+      {
+        "number": 1,
+        "question": "What do you like to do in your free time when you're at home?"
+      },
+      {
+        "number": 2,
+        "question": "Would you like to stay at home a lot in the future?"
+      },
+      {
+        "number": 3,
+        "question": "What did you often do at home as a child?"
+      },
+      {
+        "number": 4,
+        "question": "What is your favourite place at home?"
+      },
+      {
+        "number": 5,
+        "question": "What do you do when you stay at home?"
+      },
+      {
+        "number": 6,
+        "question": "Are you a person who likes to stay at home?"
+      }
+    ],
+    "questionTwo": [],
+    "questionThree": []
+  },
+  {
+    "topic": "Childhood memory",
+    "type": 1,
+    "questionsOne": [
+      {
+        "number": 1,
+        "question": "Do you think children should grow up in the city or the countryside?"
+      },
+      {
+        "number": 2,
+        "question": "What are your best childhood memories?"
+      },
+      {
+        "number": 3,
+        "question": "Did you enjoy your childhood?"
+      },
+      {
+        "number": 4,
+        "question": "What did you enjoy doing as a child?"
+      },
+      {
+        "number": 5,
+        "question": "Who did you like to play with as a child?"
+      },
+      {
+        "number": 6,
+        "question": "Where did you go to play as a child?"
+      }
+    ],
+    "questionTwo": [],
+    "questionThree": []
+  },
+  {
+    "topic": "Roads and streets",
+    "type": 1,
+    "questionsOne": [
+      {
+        "number": 1,
+        "question": "Do you think the roads in your city need improvement?"
+      },
+      {
+        "number": 2,
+        "question": "What is the condition of the roads in your city like?"
+      },
+      {
+        "number": 3,
+        "question": "How do people cross the road in the city where you live?"
+      },
+      {
+        "number": 4,
+        "question": "Are the roads and streets in the area where you live busy?"
+      },
+      {
+        "number": 5,
+        "question": "Are there any famous roads or streets in your country?"
+      }
+    ],
+    "questionTwo": [],
+    "questionThree": []
+  },
+  {
+    "topic": "Bike",
+    "type": 1,
+    "questionsOne": [
+      {
+        "number": 1,
+        "question": "Did you have a bike when you were young?"
+      },
+      {
+        "number": 2,
+        "question": "Did you ride a bike when you were little?"
+      },
+      {
+        "number": 3,
+        "question": "Did you ride a bike to school?"
+      },
+      {
+        "number": 4,
+        "question": "Do you ride a bike when you go out now?"
+      },
+      {
+        "number": 5,
+        "question": "Do you like riding a bicycle?"
+      },
+      {
+        "number": 6,
+        "question": "Are there many young people riding bicycles in Vietnam?"
+      },
+      {
+        "number": 7,
+        "question": "Would you cycle more in the future?"
+      },
+      {
+        "number": 8,
+        "question": "Do you think bicycles would do well in your city?"
+      }
+    ],
+    "questionTwo": [],
+    "questionThree": []
+  },
+  {
+    "topic": "Fish and Fishing",
+    "type": 1,
+    "questionsOne": [
+      {
+        "number": 1,
+        "question": "Is fishing popular in your country?"
+      },
+      {
+        "number": 2,
+        "question": "Do you like eating fish?"
+      },
+      {
+        "number": 3,
+        "question": "Have you ever been to a place where there are lots of fish around you?"
+      },
+      {
+        "number": 4,
+        "question": "Have you watched the TV program about fish?"
+      }
+    ],
+    "questionTwo": [],
+    "questionThree": []
+  },
+  {
+    "topic": "Sports programs",
+    "type": 1,
+    "questionsOne": [
+      {
+        "number": 1,
+        "question": "Have you ever watched a sports game in a stadium?"
+      },
+      {
+        "number": 2,
+        "question": "Do you prefer to watch sports games alone or with a group of friends?"
+      },
+      {
+        "number": 3,
+        "question": "What kinds of games do you expect to watch in the future?"
+      },
+      {
+        "number": 4,
+        "question": "Who do you like to watch sports games with?"
+      },
+      {
+        "number": 5,
+        "question": "Do you like to watch live sports games?"
+      },
+      {
+        "number": 6,
+        "question": "Do you like watching sports programs on TV?"
+      }
+    ],
+    "questionTwo": [],
+    "questionThree": []
+  },
+  {
+    "topic": "Dreams",
+    "type": 1,
+    "questionsOne": [
+      {
+        "number": 1,
+        "question": "Do you want to make your dreams come true?"
+      },
+      {
+        "number": 2,
+        "question": "Do you think dreams have special meanings?"
+      },
+      {
+        "number": 3,
+        "question": "Do you share your dreams with others? (or are you interested in others’ dreams?)"
+      },
+      {
+        "number": 4,
+        "question": "Can you remember the dreams you had?"
+      }
+    ],
+    "questionTwo": [],
+    "questionThree": []
+  },
+  {
+    "topic": "Street markets",
+    "type": 1,
+    "questionsOne": [
+      {
+        "number": 1,
+        "question": "Are there many street markets in Vietnam?"
+      },
+      {
+        "number": 2,
+        "question": "When was the last time you went to a street market?"
+      },
+      {
+        "number": 3,
+        "question": "Do you prefer to go shopping in the shopping mall or on the street market?"
+      },
+      {
+        "number": 4,
+        "question": "What do people usually buy on street markets?"
+      }
+    ],
+    "questionTwo": [],
+    "questionThree": []
+  },
+  {
+    "topic": "Emails",
+    "type": 1,
+    "questionsOne": [
+      {
+        "number": 1,
+        "question": "Do you think sending emails will be more or less popular in the future?"
+      },
+      {
+        "number": 2,
+        "question": "Is sending emails popular in Vietnam?"
+      },
+      {
+        "number": 3,
+        "question": "When would you send emails to others?"
+      },
+      {
+        "number": 4,
+        "question": "Do you often send emails?"
+      }
+    ],
+    "questionTwo": [],
+    "questionThree": []
+  },
+  {
+    "topic": "Coins",
+    "type": 1,
+    "questionsOne": [
+      {
+        "number": 1,
+        "question": "Do you use coins in your daily life?"
+      },
+      {
+        "number": 2,
+        "question": "Is it convenient to use coins?"
+      },
+      {
+        "number": 3,
+        "question": "Have you ever collected coins?"
+      },
+      {
+        "number": 4,
+        "question": "Do you often carry coins with you?"
+      }
+    ],
+    "questionTwo": [],
+    "questionThree": []
+  },
+  {
+    "topic": "Making friends",
+    "type": 1,
+    "questionsOne": [
+      {
+        "number": 1,
+        "question": "Do you like making friends? (Why/ Why not?)"
+      },
+      {
+        "number": 2,
+        "question": "How often do you meet new people? (Why/ Why not?)"
+      },
+      {
+        "number": 3,
+        "question": "Who is your latest new friend?"
+      },
+      {
+        "number": 4,
+        "question": "Do your friends think you are calm?"
+      },
+      {
+        "number": 5,
+        "question": "When you meet someone for the first time, do you know if you like them?(Why/ Why not?)"
+      },
+      {
+        "number": 6,
+        "question": "Did you make a lot of friends when you were a child?"
+      },
+      {
+        "number": 7,
+        "question": "What do you often talk about with your new friends?"
+      }
+    ],
+    "questionTwo": [],
+    "questionThree": []
+  },
+  {
+    "topic": "Meeting new people",
+    "type": 1,
+    "questionsOne": [
+      {
+        "number": 1,
+        "question": "How often do you meet new people? (Why?)"
+      },
+      {
+        "number": 2,
+        "question": "Do you find it easy to talk to new people? (Why/Why not?)"
+      },
+      {
+        "number": 3,
+        "question": "When you meet someone for the first time, how do you know if you like them?"
+      },
+      {
+        "number": 4,
+        "question": "Do you worry about what people you meet think of you? (Why/Why not?)"
+      },
+      {
+        "number": 5,
+        "question": "Do you enjoy talking to new people?"
+      },
+      {
+        "number": 6,
+        "question": "Where can you meet new people?"
+      }
+    ],
+    "questionTwo": [],
+    "questionThree": []
+  },
+  {
+    "topic": "Collecting things",
+    "type": 1,
+    "questionsOne": [
+      {
+        "number": 1,
+        "question": "Do you collect things?"
+      },
+      {
+        "number": 2,
+        "question": "Are there any things you keep from your childhood?"
+      },
+      {
+        "number": 3,
+        "question": "Would you keep old things for a long time? (Why?)"
+      },
+      {
+        "number": 4,
+        "question": "Where do you usually keep the things that you need?"
+      }
+    ],
+    "questionTwo": [],
+    "questionThree": []
+  },
+  {
+    "topic": "Art and Drawing",
+    "type": 1,
+    "questionsOne": [
+      {
+        "number": 1,
+        "question": "Do you like art?"
+      },
+      {
+        "number": 2,
+        "question": "Do you like visiting art galleries?"
+      },
+      {
+        "number": 3,
+        "question": "Do you want to be an artist?"
+      },
+      {
+        "number": 4,
+        "question": "Do you like modern art or traditional art?"
+      },
+      {
+        "number": 5,
+        "question": "Did you learn drawing when you were a kid?"
+      },
+      {
+        "number": 6,
+        "question": "Do you want to learn more about art?"
+      },
+      {
+        "number": 7,
+        "question": "Do you like drawing?"
+      }
+    ],
+    "questionTwo": [],
+    "questionThree": []
+  },
+  {
+    "topic": "Taking Photos",
+    "type": 1,
+    "questionsOne": [
+      {
+        "number": 1,
+        "question": "Do you take photos by camera or phone?"
+      },
+      {
+        "number": 2,
+        "question": "How do you deal with pictures after you take them?"
+      },
+      {
+        "number": 3,
+        "question": "Do you want to learn photography to improve your taking-photo skills?"
+      },
+      {
+        "number": 4,
+        "question": "How will people in the future take photos?"
+      },
+      {
+        "number": 5,
+        "question": "Is it good to keep photos on a cell phone?"
+      },
+      {
+        "number": 6,
+        "question": "What is your favourite family photo?"
+      },
+      {
+        "number": 7,
+        "question": "Do you like taking selfies?"
+      },
+      {
+        "number": 8,
+        "question": "Do you like taking photos?"
+      }
+    ],
+    "questionTwo": [],
+    "questionThree": []
+  },
+  {
+    "topic": "Perfume",
+    "type": 1,
+    "questionsOne": [
+      {
+        "number": 1,
+        "question": "Do you use perfume?"
+      },
+      {
+        "number": 2,
+        "question": "What kind of perfume do you like?"
+      },
+      {
+        "number": 3,
+        "question": "What does perfume mean to you?"
+      },
+      {
+        "number": 4,
+        "question": "Do you give perfume as a gift?"
+      },
+      {
+        "number": 5,
+        "question": "Do you like perfume?"
+      },
+      {
+        "number": 6,
+        "question": "Where do you spray perfume?"
+      }
+    ],
+    "questionTwo": [],
+    "questionThree": []
+  },
+  {
+    "topic": "Scenery",
+    "type": 1,
+    "questionsOne": [
+      {
+        "number": 1,
+        "question": "Where can you enjoy beautiful views where you live?"
+      },
+      {
+        "number": 2,
+        "question": "What’s the best view that you have ever enjoyed?"
+      },
+      {
+        "number": 3,
+        "question": "Do you take photos of good views?"
+      },
+      {
+        "number": 4,
+        "question": "Do you book rooms that have good views when you go travelling?"
+      },
+      {
+        "number": 5,
+        "question": "What is your favourite place? Why?"
+      },
+      {
+        "number": 6,
+        "question": "Have you seen an unforgettable and beautiful view or scenery?"
+      },
+      {
+        "number": 7,
+        "question": "What is the view like around the place where you live?"
+      }
+    ],
+    "questionTwo": [],
+    "questionThree": []
+  },
+  {
+    "topic": "Teamwork",
+    "type": 1,
+    "questionsOne": [
+      {
+        "number": 1,
+        "question": "Do you like teamwork?"
+      },
+      {
+        "number": 2,
+        "question": "Have you ever worked with others in a team?"
+      },
+      {
+        "number": 3,
+        "question": "Have you ever worked in a group in school?"
+      },
+      {
+        "number": 4,
+        "question": "Are you currently working in a group?"
+      },
+      {
+        "number": 5,
+        "question": "Do you prefer to work alone or in a group?"
+      },
+      {
+        "number": 6,
+        "question": "What do you dislike about teamwork?"
+      },
+      {
+        "number": 7,
+        "question": "What do you learn from working in a team?"
+      }
+    ],
+    "questionTwo": [],
+    "questionThree": []
+  },
+  {
+    "topic": "Teachers",
+    "type": 1,
+    "questionsOne": [
+      {
+        "number": 1,
+        "question": "Do you want to be a teacher in the future?"
+      },
+      {
+        "number": 2,
+        "question": "Do you remember one of your teachers?"
+      },
+      {
+        "number": 3,
+        "question": "What were your primary school teachers like?"
+      },
+      {
+        "number": 4,
+        "question": "Do you have a favorite teacher?"
+      },
+      {
+        "number": 5,
+        "question": "How has she/he helped you?"
+      },
+      {
+        "number": 6,
+        "question": "Who was your favourite teacher in elementary school? Why?"
+      }
+    ],
+    "questionTwo": [],
+    "questionThree": []
+  },
+  {
+    "topic": "Challenges",
+    "type": 1,
+    "questionsOne": [
+      {
+        "number": 1,
+        "question": "Do you like challenges?"
+      },
+      {
+        "number": 2,
+        "question": "What is the biggest challenge in your future?"
+      },
+      {
+        "number": 3,
+        "question": "How do you usually deal with challenges in daily life?"
+      },
+      {
+        "number": 4,
+        "question": "Do you like to live a life that has a lot of challenges?"
+      },
+      {
+        "number": 5,
+        "question": "Do you like to challenge yourself?"
+      },
+      {
+        "number": 6,
+        "question": "What subject do you think is the most challenging at school?"
+      }
+    ],
+    "questionTwo": [],
+    "questionThree": []
+  },
+  {
+    "topic": "Stories",
+    "type": 1,
+    "questionsOne": [
+      {
+        "number": 1,
+        "question": "Did you love stories when you were a child?"
+      },
+      {
+        "number": 2,
+        "question": "Do you prefer listening to stories or reading them?"
+      },
+      {
+        "number": 3,
+        "question": "Did you ever write a story when you were a child?"
+      }
+    ],
+    "questionTwo": [],
+    "questionThree": []
+  },
+  {
+    "topic": "Borrowing and Lending",
+    "type": 1,
+    "questionsOne": [
+      {
+        "number": 1,
+        "question": "Have you ever borrowed books from others?"
+      },
+      {
+        "number": 2,
+        "question": "Have you ever borrowed money from others?"
+      },
+      {
+        "number": 3,
+        "question": "Do you like to lend things to others?"
+      },
+      {
+        "number": 4,
+        "question": "How do you feel when people don't return the things they borrowed from you?"
+      }
+    ],
+    "questionTwo": [],
+    "questionThree": []
+  },
+  {
+    "topic": "Hobbies",
+    "type": 1,
+    "questionsOne": [
+      {
+        "number": 1,
+        "question": "Do you have the same hobbies as your family members?"
+      },
+      {
+        "number": 2,
+        "question": "Do you have a hobby that you've had since childhood?"
+      },
+      {
+        "number": 3,
+        "question": "Did you have any hobbies when you were a child?"
+      },
+      {
+        "number": 4,
+        "question": "Do you have any hobbies?"
+      }
+    ],
+    "questionTwo": [],
+    "questionThree": []
+  },
+  {
+    "topic": "Describe a foreign country you would like to visit in the future",
+    "type": 2,
+    "questionsOne": [],
+    "questionTwo": "Describe a foreign country you would like to visit in the future",
+    "questionThree": [
+      {
+        "number": 1,
+        "question": "What do you think makes a country different?"
+      },
+      {
+        "number": 2,
+        "question": "Do you think reading is a good way to get to know other countries? Why?"
+      },
+      {
+        "number": 3,
+        "question": "How do people get information about other countries?"
+      },
+      {
+        "number": 4,
+        "question": "How does travelling abroad affect young people?"
+      },
+      {
+        "number": 5,
+        "question": "What are the advantages of working in an international company?"
+      },
+      {
+        "number": 6,
+        "question": "What do you think of national identity?"
+      }
+    ]
+  },
+  {
+    "topic": "Describe a place in a village that you have visited",
+    "type": 2,
+    "questionsOne": [],
+    "questionTwo": "Describe a place in a village that you have visited",
+    "questionThree": [
+      {
+        "number": 1,
+        "question": "Is there anything special about the villages in Vietnam?"
+      },
+      {
+        "number": 2,
+        "question": "Why do people want to go to the countryside?"
+      },
+      {
+        "number": 3,
+        "question": "What do people usually do when they visit a village?"
+      },
+      {
+        "number": 4,
+        "question": "Do you think people will live in villages in the future?"
+      }
+    ]
+  },
+  {
+    "topic": "Describe a positive change that you have made recently in your daily routine",
+    "type": 2,
+    "questionsOne": [],
+    "questionTwo": "Describe a positive change that you have made recently in your daily routine",
+    "questionThree": [
+      {
+        "number": 1,
+        "question": "Who should get more promotion opportunities in the workplace, young people or older people?"
+      },
+      {
+        "number": 2,
+        "question": "Who do you think would make changes more often, young people or old people?"
+      },
+      {
+        "number": 3,
+        "question": "Do you think it is good to change jobs frequently?"
+      },
+      {
+        "number": 4,
+        "question": "What changes would people often make?"
+      },
+      {
+        "number": 5,
+        "question": "Is time management very important in our daily lives?"
+      },
+      {
+        "number": 6,
+        "question": "What do people normally plan in their daily lives?"
+      }
+    ]
+  },
+  {
+    "topic": "Describe a time when your vehicle broke down on your trip",
+    "type": 2,
+    "questionsOne": [],
+    "questionTwo": "Describe a time when your vehicle broke down on your trip",
+    "questionThree": [
+      {
+        "number": 1,
+        "question": "What do you think needs to be improved in public transport?"
+      },
+      {
+        "number": 2,
+        "question": "Who likes to travel more, older people or younger people?"
+      },
+      {
+        "number": 3,
+        "question": "Are there fewer people using private cars because of improved public transport?"
+      },
+      {
+        "number": 4,
+        "question": "What are the advantages and disadvantages of private transport?"
+      }
+    ]
+  },
+  {
+    "topic": "Describe an important decision that you made",
+    "type": 2,
+    "questionsOne": [],
+    "questionTwo": "Describe an important decision that you made",
+    "questionThree": [
+      {
+        "number": 1,
+        "question": "Do you think children sometimes have to make important decisions?"
+      },
+      {
+        "number": 2,
+        "question": "What important decisions do teenagers need to make after graduation?"
+      },
+      {
+        "number": 3,
+        "question": "Who can children turn to for help when making a decision?"
+      },
+      {
+        "number": 4,
+        "question": "Do you think advertisements can influence our decisions when shopping?"
+      },
+      {
+        "number": 5,
+        "question": "Do you think the influence of advertising is good?"
+      },
+      {
+        "number": 6,
+        "question": "How do people usually make important decisions?"
+      }
+    ]
+  },
+  {
+    "topic": "Describe a job that is useful to the society",
+    "type": 2,
+    "questionsOne": [],
+    "questionTwo": "Describe a job that is useful to the society",
+    "questionThree": [
+      {
+        "number": 1,
+        "question": "Do you think schools should provide career advice to students?"
+      },
+      {
+        "number": 2,
+        "question": "Who should receive a higher salary, young people or older people?"
+      },
+      {
+        "number": 3,
+        "question": "Do you think doctors should be well-paid?"
+      },
+      {
+        "number": 4,
+        "question": "What kind of jobs deserve a high salary?"
+      },
+      {
+        "number": 5,
+        "question": "What kind of jobs receive a low income?"
+      },
+      {
+        "number": 6,
+        "question": "What kind of jobs are well-paid in your country?"
+      }
+    ]
+  },
+  {
+    "topic": "Describe an online video in which you learned something new",
+    "type": 2,
+    "questionsOne": [],
+    "questionTwo": "Describe an online video in which you learned something new",
+    "questionThree": [
+      {
+        "number": 1,
+        "question": "Do you think online learning will replace face-to-face learning?"
+      },
+      {
+        "number": 2,
+        "question": "What are the advantages of online learning?"
+      },
+      {
+        "number": 3,
+        "question": "Why are so many young people obsessed with short videos?"
+      },
+      {
+        "number": 4,
+        "question": "Do you think people spend too much time watching short videos? Why?"
+      },
+      {
+        "number": 5,
+        "question": "Are there many people who watch online videos a lot?"
+      },
+      {
+        "number": 6,
+        "question": "What kinds of videos are most popular in your country?"
+      }
+    ]
+  },
+  {
+    "topic": "Describe a sport you watched and would like to try",
+    "type": 2,
+    "questionsOne": [],
+    "questionTwo": "Describe a sport you watched and would like to try",
+    "questionThree": [
+      {
+        "number": 1,
+        "question": "Do you think sportsmen would use the sports gears promoted in the commercials?"
+      },
+      {
+        "number": 2,
+        "question": "Many advertisers like to use sports stars' endorsements. What do you think are the reasons?"
+      },
+      {
+        "number": 3,
+        "question": "Do you think that international sports games are for money?"
+      },
+      {
+        "number": 4,
+        "question": "Why do so many people like to watch sports games?"
+      },
+      {
+        "number": 5,
+        "question": "What kinds of sports games do young and old people like to watch in your country?"
+      },
+      {
+        "number": 6,
+        "question": "Why do many people like to buy expensive sportswear for playing ball games?"
+      }
+    ]
+  },
+  {
+    "topic": "Describe an energetic person that you know",
+    "type": 2,
+    "questionsOne": [],
+    "questionTwo": "Describe an energetic person that you know",
+    "questionThree": [
+      {
+        "number": 1,
+        "question": "What jobs need a lot of physical energy?"
+      },
+      {
+        "number": 2,
+        "question": "Do you agree that jobs in the past needed more physical energy than jobs today?"
+      },
+      {
+        "number": 3,
+        "question": "Do you think that jobs that need a lot of physical energy should offer higher pay?"
+      },
+      {
+        "number": 4,
+        "question": "How can older people improve their physical energy levels?"
+      },
+      {
+        "number": 5,
+        "question": "Children of all ages should have sports lessons at school. What’s your opinion?"
+      },
+      {
+        "number": 6,
+        "question": "To what extent does developing physical energy give people more mental energy?"
+      },
+      {
+        "number": 7,
+        "question": "Does life today lead people to have more mental energy?"
+      },
+      {
+        "number": 8,
+        "question": "Do you agree that people with greater mental energy are more successful in life?"
+      },
+      {
+        "number": 9,
+        "question": "Great thinkers are needed less today than in the past. Do you agree or disagree?"
+      },
+      {
+        "number": 10,
+        "question": "What's the difference between the payment for physical work and that for mental work?"
+      },
+      {
+        "number": 11,
+        "question": "Do you think machines could replace human workers in the future?"
+      },
+      {
+        "number": 12,
+        "question": "Can physical workers receive higher salaries in the future?"
+      }
+    ]
+  },
+  {
+    "topic": "Describe a rule that is important in your school or at work",
+    "type": 2,
+    "questionsOne": [],
+    "questionTwo": "Describe a rule that is important in your school or at work",
+    "questionThree": [
+      {
+        "number": 1,
+        "question": "What rules should children abide by at home in your country?"
+      },
+      {
+        "number": 2,
+        "question": "What rules can be forgiven for children breaking at home?"
+      },
+      {
+        "number": 3,
+        "question": "What rules should people obey in public transportation?"
+      },
+      {
+        "number": 4,
+        "question": "Should schools have rules?"
+      },
+      {
+        "number": 5,
+        "question": "Should schools (or workplaces) decide how long the working hours should be?"
+      },
+      {
+        "number": 6,
+        "question": "What are the reasons that cause people to break rules?"
+      },
+      {
+        "number": 7,
+        "question": "What kinds of rules do people need to follow in public places?"
+      },
+      {
+        "number": 8,
+        "question": "When people break rules, how would they be punished in your country?"
+      }
+    ]
+  },
+  {
+    "topic": "Describe a science subject that you are interested in (Biology, Robotics, etc.)",
+    "type": 2,
+    "questionsOne": [],
+    "questionTwo": "Describe a science subject that you are interested in (Biology, Robotics, etc.)",
+    "questionThree": [
+      {
+        "number": 1,
+        "question": "Did you ever tell anybody that you are interested in this subject?"
+      },
+      {
+        "number": 2,
+        "question": "Some children don't like to study science subjects in school, why?"
+      },
+      {
+        "number": 3,
+        "question": "Is it important to study science in school?"
+      },
+      {
+        "number": 4,
+        "question": "Which science subject is the most important for children to study?"
+      },
+      {
+        "number": 5,
+        "question": "Should people continue to study science after graduation?"
+      },
+      {
+        "number": 6,
+        "question": "What channels do you use to learn about scientific research news?"
+      },
+      {
+        "number": 7,
+        "question": "Should scientists explain the research process to the public?"
+      }
+    ]
+  },
+  {
+    "topic": "Describe a time when you forgot something important",
+    "type": 2,
+    "questionsOne": [],
+    "questionTwo": "Describe a time when you forgot something important",
+    "questionThree": [
+      {
+        "number": 1,
+        "question": "What kinds of things do people often forget to do in their home?"
+      },
+      {
+        "number": 2,
+        "question": "Why do people forget things?"
+      },
+      {
+        "number": 3,
+        "question": "What can happen when someone forgets a person’s name?"
+      },
+      {
+        "number": 4,
+        "question": "How can people remind themselves to do certain things?"
+      },
+      {
+        "number": 5,
+        "question": "Is technology replacing traditional ways of remembering things?"
+      },
+      {
+        "number": 6,
+        "question": "Is it possible that technology will replace human memory?"
+      },
+      {
+        "number": 7,
+        "question": "Can people improve their memory? How?"
+      },
+      {
+        "number": 8,
+        "question": "Some people say that people don’t learn organizational skills, they are born with them. Do you agree?"
+      },
+      {
+        "number": 9,
+        "question": "Organizational skills are the most important factor in working effectively. Agree?"
+      },
+      {
+        "number": 10,
+        "question": "How does a good organisation contribute to the well-being of a society?"
+      },
+      {
+        "number": 11,
+        "question": "What do you think of people using calendars to remind themselves of things?"
+      },
+      {
+        "number": 12,
+        "question": "What kinds of people are more forgetful?"
+      },
+      {
+        "number": 13,
+        "question": "What kinds of things do people forget easily?"
+      }
+    ]
+  },
+  {
+    "topic": "Describe a time when you were stuck in a traffic jam for a very long time ",
+    "type": 2,
+    "questionsOne": [],
+    "questionTwo": "Describe a time when you were stuck in a traffic jam for a very long time ",
+    "questionThree": [
+      {
+        "number": 1,
+        "question": "Would you rather be in a car or a bus in a traffic jam?  "
+      },
+      {
+        "number": 2,
+        "question": "Do you like to use public transport?  "
+      },
+      {
+        "number": 3,
+        "question": "What are good ways to manage traffic?  "
+      },
+      {
+        "number": 4,
+        "question": "Do you think the highways will help reduce traffic jams?  "
+      },
+      {
+        "number": 5,
+        "question": "Do you think developing public transport can solve traffic jam problems?  "
+      },
+      {
+        "number": 6,
+        "question": "How can we solve the traffic jam problem? "
+      }
+    ]
+  },
+  {
+    "topic": "Describe an occasion when someone gave you positive advice or suggestions about your work/study",
+    "type": 2,
+    "questionsOne": [],
+    "questionTwo": "Describe an occasion when someone gave you positive advice or suggestions about your work/study",
+    "questionThree": [
+      {
+        "number": 1,
+        "question": "When should parents encourage their children?  "
+      },
+      {
+        "number": 2,
+        "question": "Should parents always encourage their children?  "
+      },
+      {
+        "number": 3,
+        "question": "Do you think negative feedback is more important than positive feedback? Why?  "
+      },
+      {
+        "number": 4,
+        "question": "Why is negative feedback as important as positive feedback at work or in study?  "
+      },
+      {
+        "number": 5,
+        "question": "Which is more important for adults in the workplace, positive feedback or negative feedback?  "
+      },
+      {
+        "number": 6,
+        "question": "Do you think people care about others’ comments about them?  "
+      }
+    ]
+  },
+  {
+    "topic": "Describe a popular person in your country",
+    "type": 2,
+    "questionsOne": [],
+    "questionTwo": "Describe a popular person in your country",
+    "questionThree": [
+      {
+        "number": 1,
+        "question": "What kinds of people are popular at work?  "
+      },
+      {
+        "number": 2,
+        "question": "Are bosses more popular than employees at work?  "
+      },
+      {
+        "number": 3,
+        "question": "Which one is more important, maintaining a good relationship with colleagues or doing well at work?  "
+      },
+      {
+        "number": 4,
+        "question": "What benefits are there when a child is popular at school?  "
+      },
+      {
+        "number": 5,
+        "question": "Are there any disadvantages if a child is popular at school?  "
+      },
+      {
+        "number": 6,
+        "question": "Do you think popular children will grow up to be popular adults?  "
+      }
+    ]
+  },
+  {
+    "topic": "Describe a time when you were very busy",
+    "type": 2,
+    "questionsOne": [],
+    "questionTwo": "Describe a time when you were very busy",
+    "questionThree": [
+      {
+        "number": 1,
+        "question": "Why do people often feel tired in this day and age?"
+      },
+      {
+        "number": 2,
+        "question": "Do you think people will feel even more tired in the future?"
+      },
+      {
+        "number": 3,
+        "question": "Is time management important?"
+      },
+      {
+        "number": 4,
+        "question": "How does technology help with time management?"
+      },
+      {
+        "number": 5,
+        "question": "Does technology distract people?"
+      },
+      {
+        "number": 6,
+        "question": "What kind of pressure people may experience at work?"
+      },
+      {
+        "number": 7,
+        "question": "Do you think children should learn through playing games or under pressure?"
+      },
+      {
+        "number": 8,
+        "question": "What are the advantages and disadvantages when people keep busy？"
+      }
+    ]
+  },
+  {
+    "topic": "Describe an invention that changed people's lives",
+    "type": 2,
+    "questionsOne": [],
+    "questionTwo": "Describe an invention that changed people's lives",
+    "questionThree": [
+      {
+        "number": 1,
+        "question": "Can you name any other inventions that have made a big impact on human society?"
+      },
+      {
+        "number": 2,
+        "question": "What do you think makes an invention \"useful\"?"
+      },
+      {
+        "number": 3,
+        "question": "What new invention(s) would you like to be available in the future?"
+      },
+      {
+        "number": 4,
+        "question": "What are some examples of inventions that are used in the home?"
+      },
+      {
+        "number": 5,
+        "question": "Do you think these inventions tend to make people lazy?"
+      },
+      {
+        "number": 6,
+        "question": "What are some examples of electronic or electrical equipment that are used in schools (in classrooms)?"
+      },
+      {
+        "number": 7,
+        "question": "What kinds of new technology connected to health do you think might appear in the future?"
+      }
+    ]
+  },
+  {
+    "topic": "Describe a traditional product in your country",
+    "type": 2,
+    "questionsOne": [],
+    "questionTwo": "Describe a traditional product in your country",
+    "questionThree": [
+      {
+        "number": 1,
+        "question": "Why are traditional products important?  "
+      },
+      {
+        "number": 2,
+        "question": "Do you think traditions are important for a country? Why?  "
+      },
+      {
+        "number": 3,
+        "question": "What are some traditional Vietnamese products?  "
+      },
+      {
+        "number": 4,
+        "question": "Why is it important for children to learn about traditional products?  "
+      },
+      {
+        "number": 5,
+        "question": "Do you think people should be proud of their own culture? Why?  "
+      },
+      {
+        "number": 6,
+        "question": "Where should children learn about culture, at school or at home?  "
+      }
+    ]
+  },
+  {
+    "topic": "Describe something you do that can help you concentrate on work/study",
+    "type": 2,
+    "questionsOne": [],
+    "questionTwo": "Describe something you do that can help you concentrate on work/study",
+    "questionThree": [
+      {
+        "number": 1,
+        "question": "Why is it more difficult for children to concentrate nowadays than in the past?  "
+      },
+      {
+        "number": 2,
+        "question": "Do you think technology will harm children’s ability to concentrate?  "
+      },
+      {
+        "number": 3,
+        "question": "What kinds of jobs require high concentration at work?  "
+      },
+      {
+        "number": 4,
+        "question": "Can exercise help people improve concentration?  "
+      },
+      {
+        "number": 5,
+        "question": "Is it important for children to concentrate on their studies? Why?  "
+      },
+      {
+        "number": 6,
+        "question": "What can people do to improve their ability to concentrate? "
+      }
+    ]
+  },
+  {
+    "topic": "Describe a contest or competition you would like to participate in",
+    "type": 2,
+    "questionsOne": [],
+    "questionTwo": "Describe a contest or competition you would like to participate in",
+    "questionThree": [
+      {
+        "number": 1,
+        "question": "What are the contests commonly seen on TV programs?  "
+      },
+      {
+        "number": 2,
+        "question": "Why are competition shows popular?  "
+      },
+      {
+        "number": 3,
+        "question": "What kinds of industries need competition? Why?  "
+      },
+      {
+        "number": 4,
+        "question": "Do you think it is necessary to encourage people to compete with one another in companies?  "
+      },
+      {
+        "number": 5,
+        "question": "What kinds of people like to take part in competitions?  "
+      },
+      {
+        "number": 6,
+        "question": "Do you think the ability to compete is natural or learned?  "
+      }
+    ]
+  },
+  {
+    "topic": "Describe a special day out which didn’t cost very much",
+    "type": 2,
+    "questionsOne": [],
+    "questionTwo": "Describe a special day out which didn’t cost very much",
+    "questionThree": [
+      {
+        "number": 1,
+        "question": "What type of places do people in Vietnam go for a day out?"
+      },
+      {
+        "number": 2,
+        "question": "Why do people want to have a day out?"
+      },
+      {
+        "number": 3,
+        "question": "What are the advantages and disadvantages of having a day out compared to staying home?"
+      },
+      {
+        "number": 4,
+        "question": "What makes a day out enjoyable?"
+      },
+      {
+        "number": 5,
+        "question": "How does the weather influence the enjoyment of going out?"
+      },
+      {
+        "number": 6,
+        "question": "What is your opinion about the experience of going out with friends?"
+      },
+      {
+        "number": 7,
+        "question": "Is spending money important in making a day out enjoyable?"
+      },
+      {
+        "number": 8,
+        "question": "Do you think technology has increased opportunities for leisure?"
+      },
+      {
+        "number": 9,
+        "question": "Can only the young make leisure time an active experience?"
+      },
+      {
+        "number": 10,
+        "question": "What are the differences between people’s expectations about leisure time now and in the past?"
+      },
+      {
+        "number": 11,
+        "question": "Why do people like to have days off?"
+      },
+      {
+        "number": 12,
+        "question": "Do you think only old people have time for leisure?"
+      },
+      {
+        "number": 13,
+        "question": "How does technology affect the way people spend their leisure time?"
+      },
+      {
+        "number": 14,
+        "question": "How do people spend their leisure time in your country?"
+      },
+      {
+        "number": 15,
+        "question": "Do people like to spend their leisure time out in your country?"
+      }
+    ]
+  },
+  {
+    "topic": "Describe an occasion that you lost something in public",
+    "type": 2,
+    "questionsOne": [],
+    "questionTwo": "Describe an occasion that you lost something in public",
+    "questionThree": [
+      {
+        "number": 1,
+        "question": "What kinds of things do people usually lose?  "
+      },
+      {
+        "number": 2,
+        "question": "What will people do when losing things?  "
+      },
+      {
+        "number": 3,
+        "question": "Is it effective to offer rewards to find lost things?  "
+      },
+      {
+        "number": 4,
+        "question": "What kinds of people may lose things often?  "
+      },
+      {
+        "number": 5,
+        "question": "What can we do to reduce the possibility of losing things?  "
+      },
+      {
+        "number": 6,
+        "question": "What do people often feel after losing things?  "
+      }
+    ]
+  },
+  {
+    "topic": "Describe something you do to keep fit and healthy",
+    "type": 2,
+    "questionsOne": [],
+    "questionTwo": "Describe something you do to keep fit and healthy",
+    "questionThree": [
+      {
+        "number": 1,
+        "question": "How do children and old people keep fit and healthy?  "
+      },
+      {
+        "number": 2,
+        "question": "What do people normally do to keep fit and healthy in your country?  "
+      },
+      {
+        "number": 3,
+        "question": "How can parents help and guide their kids to keep healthy?  "
+      },
+      {
+        "number": 4,
+        "question": "Do you think it is good for governments to utilize popular celebrities to help build health awareness?  "
+      },
+      {
+        "number": 5,
+        "question": "How can we use technology to keep fit?  "
+      },
+      {
+        "number": 6,
+        "question": "Should schools provide physical education to students? Why and how?  "
+      }
+    ]
+  },
+  {
+    "topic": "Describe a family member who you want to work with in the future",
+    "type": 2,
+    "questionsOne": [],
+    "questionTwo": "Describe a family member who you want to work with in the future",
+    "questionThree": [
+      {
+        "number": 1,
+        "question": "What kinds of family businesses are common in Vietnam?  "
+      },
+      {
+        "number": 2,
+        "question": "Is it good to work with family members? Why?  "
+      },
+      {
+        "number": 3,
+        "question": "Why do people want to have a family business?  "
+      },
+      {
+        "number": 4,
+        "question": "What benefits are there when working for big companies?  "
+      },
+      {
+        "number": 5,
+        "question": "Why do people want to change their jobs?  "
+      },
+      {
+        "number": 6,
+        "question": "What do people need to do to change their jobs?  "
+      }
+    ]
+  },
+  {
+    "topic": "Describe something that surprised you and made you happy",
+    "type": 2,
+    "questionsOne": [],
+    "questionTwo": "Describe something that surprised you and made you happy",
+    "questionThree": [
+      {
+        "number": 1,
+        "question": "How do people express happiness in your culture?  "
+      },
+      {
+        "number": 2,
+        "question": "Do you think happiness has any effect on people? How?  "
+      },
+      {
+        "number": 3,
+        "question": "How can people be happy?  "
+      },
+      {
+        "number": 4,
+        "question": "Is it good for people to be unhappy? Why?  "
+      },
+      {
+        "number": 5,
+        "question": "Do men and women have different attitudes and feelings about shopping?  "
+      },
+      {
+        "number": 6,
+        "question": "What do people usually spend money on?  "
+      }
+    ]
+  },
+  {
+    "topic": "Describe a quiet place you like to go",
+    "type": 2,
+    "questionsOne": [],
+    "questionTwo": "Describe a quiet place you like to go",
+    "questionThree": [
+      {
+        "number": 1,
+        "question": "Is it easy to find quiet places in your country? Why?  "
+      },
+      {
+        "number": 2,
+        "question": "How do people spend their leisure time in your country?  "
+      },
+      {
+        "number": 3,
+        "question": "How does technology affect the way people spend their leisure time?  "
+      },
+      {
+        "number": 4,
+        "question": "Do you think only old people have time for leisure?  "
+      },
+      {
+        "number": 5,
+        "question": "Why do old people prefer to live in quiet places?  "
+      },
+      {
+        "number": 6,
+        "question": "Why are there more noises made at home now than in the past?  "
+      }
+    ]
+  },
+  {
+    "topic": "Describe an interesting neighbor ",
+    "type": 2,
+    "questionsOne": [],
+    "questionTwo": "Describe an interesting neighbor ",
+    "questionThree": [
+      {
+        "number": 1,
+        "question": "Do you think people are familiar with their neighbors?  "
+      },
+      {
+        "number": 2,
+        "question": "How can people improve the relationship with neighbors in a community?  "
+      },
+      {
+        "number": 3,
+        "question": "How do children build relationships with others in a community?  "
+      },
+      {
+        "number": 4,
+        "question": "Is it beneficial to get along well with neighbors?  "
+      },
+      {
+        "number": 5,
+        "question": "Why do many people in big cities not know their neighbors?  "
+      },
+      {
+        "number": 6,
+        "question": "How do people build relationships with local people in a new place?  "
+      }
+    ]
+  },
+  {
+    "topic": "Describe an important event you celebrated",
+    "type": 2,
+    "questionsOne": [],
+    "questionTwo": "Describe an important event you celebrated",
+    "questionThree": [
+      {
+        "number": 1,
+        "question": "Do you like to celebrate important events? Why?  "
+      },
+      {
+        "number": 2,
+        "question": "What kinds of events do people usually celebrate?  "
+      },
+      {
+        "number": 3,
+        "question": "Do people often celebrate events with a large group of people or just a few people?  "
+      },
+      {
+        "number": 4,
+        "question": "Do people often celebrate festivals with families?  "
+      },
+      {
+        "number": 5,
+        "question": "Why is it important to celebrate festivals?  "
+      },
+      {
+        "number": 6,
+        "question": "Do most people like to share their good news with others? "
+      }
+    ]
+  },
+  {
+    "topic": "Describe an ambition that you haven't achieved",
+    "type": 2,
+    "questionsOne": [],
+    "questionTwo": "Describe an ambition that you haven't achieved",
+    "questionThree": [
+      {
+        "number": 1,
+        "question": "What ambitions do children usually have?  "
+      },
+      {
+        "number": 2,
+        "question": "Why are some people very ambitious in their work?  "
+      },
+      {
+        "number": 3,
+        "question": "Why don't some people have dreams?  "
+      },
+      {
+        "number": 4,
+        "question": "How do people balance work and life?  "
+      },
+      {
+        "number": 5,
+        "question": "Why do some people like to be the manager in the workplace?  "
+      },
+      {
+        "number": 6,
+        "question": "What are the traits of an ambitious person?  "
+      }
+    ]
+  },
+  {
+    "topic": "Describe a time when you organized a happy event successfully",
+    "type": 2,
+    "questionsOne": [],
+    "questionTwo": "Describe a time when you organized a happy event successfully",
+    "questionThree": [
+      {
+        "number": 1,
+        "question": "How can parents help children to be organized?  "
+      },
+      {
+        "number": 2,
+        "question": "On what occasions do people need to be organized?  "
+      },
+      {
+        "number": 3,
+        "question": "Does everything need to be well prepared?  "
+      },
+      {
+        "number": 4,
+        "question": "Do people need others’ help when organizing things?  "
+      },
+      {
+        "number": 5,
+        "question": "How would you feel when you were not well prepared for something?  "
+      },
+      {
+        "number": 6,
+        "question": "Do you prefer to prepare and organize an activity or just take part in an activity?  "
+      }
+    ]
+  },
+  {
+    "topic": "Describe a person who contributes to the society",
+    "type": 2,
+    "questionsOne": [],
+    "questionTwo": "Describe a person who contributes to the society",
+    "questionThree": [
+      {
+        "number": 1,
+        "question": "What kinds of jobs are not paid fairly?"
+      },
+      {
+        "number": 2,
+        "question": "What skills should be taught at school to improve students’ ability to find jobs?"
+      },
+      {
+        "number": 3,
+        "question": "Do you think younger people should be lower paid than older people?"
+      },
+      {
+        "number": 4,
+        "question": "What are the impacts of the epidemic on the work environment?"
+      },
+      {
+        "number": 5,
+        "question": "What are the changes in working conditions?"
+      },
+      {
+        "number": 6,
+        "question": "What jobs are well-paid?"
+      }
+    ]
+  },
+  {
+    "topic": "Describe a skill that you learned from older people",
+    "type": 2,
+    "questionsOne": [],
+    "questionTwo": "Describe a skill that you learned from older people",
+    "questionThree": [
+      {
+        "number": 1,
+        "question": "What can children learn from their parents?  "
+      },
+      {
+        "number": 2,
+        "question": "What kind of help do you think older people need?  "
+      },
+      {
+        "number": 3,
+        "question": "What skills can young people learn from older people?  "
+      },
+      {
+        "number": 4,
+        "question": "What knowledge can children learn from their grandparents?  "
+      },
+      {
+        "number": 5,
+        "question": "What new skills can old people learn?  "
+      },
+      {
+        "number": 6,
+        "question": "Do you think many old people in your country feel lonely?  "
+      }
+    ]
+  },
+  {
+    "topic": "Describe a long walk you had",
+    "type": 2,
+    "questionsOne": [],
+    "questionTwo": "Describe a long walk you had",
+    "questionThree": [
+      {
+        "number": 1,
+        "question": "What outdoor activities do people like?  "
+      },
+      {
+        "number": 2,
+        "question": "What are the differences between the outdoor activities children did in the past and now?  "
+      },
+      {
+        "number": 3,
+        "question": "Is leisure time important to everyone? Why?  "
+      },
+      {
+        "number": 4,
+        "question": "Do women have more leisure time than men?  "
+      },
+      {
+        "number": 5,
+        "question": "What are the benefits of outdoor activities for children?  "
+      },
+      {
+        "number": 6,
+        "question": "Do you think that walking is not as helpful as playing other sports for our health?  "
+      }
+    ]
+  },
+  {
+    "topic": "Describe something that you can’t live without (not a computer/phone)",
+    "type": 2,
+    "questionsOne": [],
+    "questionTwo": "Describe something that you can’t live without (not a computer/phone)",
+    "questionThree": [
+      {
+        "number": 1,
+        "question": "Why are children attracted to new things (such as electronics)?  "
+      },
+      {
+        "number": 2,
+        "question": "Why do some grown-ups hate to throw out old things (such as clothes)?  "
+      },
+      {
+        "number": 3,
+        "question": "Is the way people buy things affected? How?  "
+      },
+      {
+        "number": 4,
+        "question": "What do you think influences people to buy new things?  "
+      },
+      {
+        "number": 5,
+        "question": "Why do all children like toys?  "
+      },
+      {
+        "number": 6,
+        "question": "Do you think it is good for a child to always take his or her favourite toy with them all the time?  "
+      }
+    ]
+  },
+  {
+    "topic": "Describe a person you only met once recently and want to know more about",
+    "type": 2,
+    "questionsOne": [],
+    "questionTwo": "Describe a person you only met once recently and want to know more about",
+    "questionThree": [
+      {
+        "number": 1,
+        "question": "How do people make friends in Vietnam?  "
+      },
+      {
+        "number": 2,
+        "question": "On what occasions do people like to make friends?  "
+      },
+      {
+        "number": 3,
+        "question": "Is it important to have the same hobbies and interests when making friends?  "
+      },
+      {
+        "number": 4,
+        "question": "What qualities make true friends?  "
+      },
+      {
+        "number": 5,
+        "question": "What can we do to leave a good impression on people we meet for the first time?  "
+      },
+      {
+        "number": 6,
+        "question": "What should we not talk about when we meet a person for the first time?  "
+      }
+    ]
+  },
+  {
+    "topic": "Describe a course that impressed you a lot",
+    "type": 2,
+    "questionsOne": [],
+    "questionTwo": "Describe a course that impressed you a lot",
+    "questionThree": [
+      {
+        "number": 1,
+        "question": "Why do some people have a better memory than others?  "
+      },
+      {
+        "number": 2,
+        "question": "Do people like things of memorial significance?  "
+      },
+      {
+        "number": 3,
+        "question": "Which can help people remember things better, words or photos?  "
+      },
+      {
+        "number": 4,
+        "question": "Can technology help people remember things better? How?  "
+      },
+      {
+        "number": 5,
+        "question": "What do people need to remember in their daily lives?  "
+      },
+      {
+        "number": 6,
+        "question": "What can we learn from history?  "
+      }
+    ]
+  },
+  {
+    "topic": "Describe something that was broken in your home and then repaired",
+    "type": 2,
+    "questionsOne": [],
+    "questionTwo": "Describe something that was broken in your home and then repaired",
+    "questionThree": [
+      {
+        "number": 1,
+        "question": "Are IT-related jobs valued more by society?  "
+      },
+      {
+        "number": 2,
+        "question": "Is the quality of products worse than before?  "
+      },
+      {
+        "number": 3,
+        "question": "What kinds of things do people like to repair by themselves?  "
+      },
+      {
+        "number": 4,
+        "question": "Why do people like to get their mobile phones repaired in specialized stores?  "
+      },
+      {
+        "number": 5,
+        "question": "Do you think luxury products are of better quality?  "
+      },
+      {
+        "number": 6,
+        "question": "What kinds of things are easily repaired?  "
+      }
+    ]
+  },
+  {
+    "topic": "Describe someone you like to spend time with",
+    "type": 2,
+    "questionsOne": [],
+    "questionTwo": "Describe someone you like to spend time with",
+    "questionThree": [
+      {
+        "number": 1,
+        "question": "What kinds of people are easy to get along with?  "
+      },
+      {
+        "number": 2,
+        "question": "How do leaders get along with their subordinates?  "
+      },
+      {
+        "number": 3,
+        "question": "Do you like talking with older people? Why?  "
+      },
+      {
+        "number": 4,
+        "question": "Do you think it's important to spend some time alone?  "
+      },
+      {
+        "number": 5,
+        "question": "Do people have time for themselves nowadays?  "
+      },
+      {
+        "number": 6,
+        "question": "Do you think it is important for us to get along with different kinds of people?  "
+      }
+    ]
+  },
+  {
+    "topic": "Describe a special cake you received from others",
+    "type": 2,
+    "questionsOne": [],
+    "questionTwo": "Describe a special cake you received from others",
+    "questionThree": [
+      {
+        "number": 1,
+        "question": "What are the differences between special food in Vietnam and other countries?  "
+      },
+      {
+        "number": 2,
+        "question": "Is there any food in your country that is eaten at special times or on special occasions?  "
+      },
+      {
+        "number": 3,
+        "question": "Why are some people willing to spend a lot of money on meals on special days?  "
+      },
+      {
+        "number": 4,
+        "question": "Do you think it’s good to communicate when eating with your family?  "
+      },
+      {
+        "number": 5,
+        "question": "In your country, do people nowadays cook at home as frequently as people did in the past?  "
+      },
+      {
+        "number": 6,
+        "question": "What do you think of people using their mobile phones during a meal?  "
+      }
+    ]
+  },
+  {
+    "topic": "Describe an interesting song",
+    "type": 2,
+    "questionsOne": [],
+    "questionTwo": "Describe an interesting song",
+    "questionThree": [
+      {
+        "number": 1,
+        "question": "Why are many music competitions popular in Vietnam?  "
+      },
+      {
+        "number": 2,
+        "question": "What kinds of music do young people like?  "
+      },
+      {
+        "number": 3,
+        "question": "What kinds of people like traditional music?  "
+      },
+      {
+        "number": 4,
+        "question": "What are the differences between live concert and online concert?  "
+      },
+      {
+        "number": 5,
+        "question": "Do you like to watch music TV programs? Why?  "
+      },
+      {
+        "number": 6,
+        "question": "Are foreign songs popular in your country?  "
+      }
+    ]
+  },
+  {
+    "topic": "Describe an interesting discussion you had with your friend",
+    "type": 2,
+    "questionsOne": [],
+    "questionTwo": "Describe an interesting discussion you had with your friend",
+    "questionThree": [
+      {
+        "number": 1,
+        "question": "When do children normally form their own views?  "
+      },
+      {
+        "number": 2,
+        "question": "Do children have strong opinions?  "
+      },
+      {
+        "number": 3,
+        "question": "Should parents require their kids to obey them?  "
+      },
+      {
+        "number": 4,
+        "question": "In what industries do you think communication is a necessary skill?  "
+      },
+      {
+        "number": 5,
+        "question": "Should parents consider their children's opinions on everything? Why?  "
+      },
+      {
+        "number": 6,
+        "question": "Why do some young people refuse to communicate with others?  "
+      }
+    ]
+  },
+  {
+    "topic": "Describe a thing you did to learn another language",
+    "type": 2,
+    "questionsOne": [],
+    "questionTwo": "Describe a thing you did to learn another language",
+    "questionThree": [
+      {
+        "number": 1,
+        "question": "What difficulties do people face when learning a language?  "
+      },
+      {
+        "number": 2,
+        "question": "Do you think language learning is important? Why?  "
+      },
+      {
+        "number": 3,
+        "question": "Which is better, to study a language alone or to study it in a group? Why?  "
+      },
+      {
+        "number": 4,
+        "question": "What's the best way to learn a language?  "
+      },
+      {
+        "number": 5,
+        "question": "What are the advantages and disadvantages of learning a language?  "
+      },
+      {
+        "number": 6,
+        "question": "Some people think that technology has made it unnecessary to learn languages. What do you think?  "
+      }
+    ]
+  },
+  {
+    "topic": "Describe a person who you regularly follow on social media",
+    "type": 2,
+    "questionsOne": [],
+    "questionTwo": "Describe a person who you regularly follow on social media",
+    "questionThree": [
+      {
+        "number": 1,
+        "question": "What can people do on social media?  "
+      },
+      {
+        "number": 2,
+        "question": "Do older people and younger people use the same kinds of social media apps?  "
+      },
+      {
+        "number": 3,
+        "question": "Do older people spend much time on social media?  "
+      },
+      {
+        "number": 4,
+        "question": "Are non-social media like television and newspapers still useful?  "
+      },
+      {
+        "number": 5,
+        "question": "Do you think people will read paper newspapers and books in the future? Why?  "
+      },
+      {
+        "number": 6,
+        "question": "Do you think it is easy to make friends on social media?  "
+      }
+    ]
+  },
+  {
+    "topic": "Describe a rule you dislike and would like to change in the future",
+    "type": 2,
+    "questionsOne": [],
+    "questionTwo": "Describe a rule you dislike and would like to change in the future",
+    "questionThree": [
+      {
+        "number": 1,
+        "question": "What are the rules students should follow at school?  "
+      },
+      {
+        "number": 2,
+        "question": "Are the rules at school good or bad? Why?  "
+      },
+      {
+        "number": 3,
+        "question": "What rules should children follow at home?  "
+      },
+      {
+        "number": 4,
+        "question": "How are people punished when parking at a wrong spot?  "
+      },
+      {
+        "number": 5,
+        "question": "When is it okay to break the rules?  "
+      },
+      {
+        "number": 6,
+        "question": "Do you know anyone who has broken the law? How?  "
+      }
+    ]
+  },
+  {
+    "topic": "Describe an item of clothing that someone gave you",
+    "type": 2,
+    "questionsOne": [],
+    "questionTwo": "Describe an item of clothing that someone gave you",
+    "questionThree": [
+      {
+        "number": 1,
+        "question": "Have you ever given clothes to others?  "
+      },
+      {
+        "number": 2,
+        "question": "Why do people dress casually in everyday life but dress formally at work?  "
+      },
+      {
+        "number": 3,
+        "question": "What are the advantages and disadvantages of wearing uniforms at work and school?  "
+      },
+      {
+        "number": 4,
+        "question": "What are the advantages and disadvantages of wearing a uniform at school?  "
+      },
+      {
+        "number": 5,
+        "question": "Why do people from different countries wear different clothing?  "
+      },
+      {
+        "number": 6,
+        "question": "What influences the way people dress in today's society?"
+      }
+    ]
+  },
+  {
+    "topic": "Describe a city that you think is very interesting or famous",
+    "type": 2,
+    "questionsOne": [],
+    "questionTwo": "Describe a city that you think is very interesting or famous",
+    "questionThree": [
+      {
+        "number": 1,
+        "question": "What advantages can tourism bring to a city?  "
+      },
+      {
+        "number": 2,
+        "question": "Why do some young people like to live in cities?  "
+      },
+      {
+        "number": 3,
+        "question": "Do most elderly people live in the city or in the countryside?  "
+      },
+      {
+        "number": 4,
+        "question": "Do you think well-developed tourism will have negative effects on local people?  "
+      },
+      {
+        "number": 5,
+        "question": "What are the benefits of urbanization?  "
+      },
+      {
+        "number": 6,
+        "question": "Do you think the big cities in Vietnam today will become even larger in the future?"
+      }
+    ]
+  },
+  {
+    "topic": "Describe a time you visited a new place",
+    "type": 2,
+    "questionsOne": [],
+    "questionTwo": "Describe a time you visited a new place",
+    "questionThree": [
+      {
+        "number": 1,
+        "question": "Which do you prefer, living in a city or only visiting it as a tourist?  "
+      },
+      {
+        "number": 2,
+        "question": "How do young children react when they go to school for the first time?  "
+      },
+      {
+        "number": 3,
+        "question": "Why do some people want to go to college far away from home?  "
+      },
+      {
+        "number": 4,
+        "question": "How do young and old people react differently to new things?  "
+      },
+      {
+        "number": 5,
+        "question": "Do you think it's important to get as much information as possible before going to a new place?  "
+      },
+      {
+        "number": 6,
+        "question": "Why do many people enjoy visiting a new place?  "
+      }
+    ]
+  },
+  {
+    "topic": "Describe a story someone told you and you remember",
+    "type": 2,
+    "questionsOne": [],
+    "questionTwo": "Describe a story someone told you and you remember",
+    "questionThree": [
+      {
+        "number": 1,
+        "question": "Do young children like the same stories as older children?  "
+      },
+      {
+        "number": 2,
+        "question": "How has technology changed storytelling?  "
+      },
+      {
+        "number": 3,
+        "question": "How do people tell stories to children?  "
+      },
+      {
+        "number": 4,
+        "question": "Why do children like stories?  "
+      },
+      {
+        "number": 5,
+        "question": "Will smart devices affect the relationship between children and parents?  "
+      },
+      {
+        "number": 6,
+        "question": "Which do you think is better, paper books or e-books?"
+      }
+    ]
+  },
+  {
+    "topic": "Describe a gift you would like to buy for your friend",
+    "type": 2,
+    "questionsOne": [],
+    "questionTwo": "Describe a gift you would like to buy for your friend",
+    "questionThree": [
+      {
+        "number": 1,
+        "question": "When do people normally send gifts to others?  "
+      },
+      {
+        "number": 2,
+        "question": "Is it hard to choose a gift?  "
+      },
+      {
+        "number": 3,
+        "question": "Will people feel happy when receiving an expensive gift?  "
+      },
+      {
+        "number": 4,
+        "question": "Which do people give on traditional festivals, red envelopes or other kinds of gifts?  "
+      },
+      {
+        "number": 5,
+        "question": "What do people usually consider when buying gifts?  "
+      },
+      {
+        "number": 6,
+        "question": "Are there any unlucky things that people should not buy as gifts in your country?"
+      }
+    ]
+  },
+  {
+    "topic": "Describe a toy you liked in your childhood",
+    "type": 2,
+    "questionsOne": [],
+    "questionTwo": "Describe a toy you liked in your childhood",
+    "questionThree": [
+      {
+        "number": 1,
+        "question": "How do advertisements influence children?  "
+      },
+      {
+        "number": 2,
+        "question": "Should advertising aimed at kids be prohibited?  "
+      },
+      {
+        "number": 3,
+        "question": "What's the difference between the toys kids play now and those they played in the past?  "
+      },
+      {
+        "number": 4,
+        "question": "Do you think parents should buy more toys for their kids or spend more time with them?  "
+      },
+      {
+        "number": 5,
+        "question": "What's the difference between the toys boys play with and girls play with?  "
+      },
+      {
+        "number": 6,
+        "question": "What are the advantages and disadvantages of modern toys?"
+      }
+    ]
+  },
+  {
+    "topic": "Describe an important river, lake or area of water in your country",
+    "type": 2,
+    "questionsOne": [],
+    "questionTwo": "Describe an important river, lake or area of water in your country",
+    "questionThree": [
+      {
+        "number": 1,
+        "question": "What are the most popular water sports in Vietnam?"
+      },
+      {
+        "number": 2,
+        "question": "Why do people enjoy spending time near water?"
+      },
+      {
+        "number": 3,
+        "question": "Should all children have swimming lessons at school?"
+      },
+      {
+        "number": 4,
+        "question": "What are the sorts of jobs that are associated with rivers?"
+      },
+      {
+        "number": 5,
+        "question": "Do you think rivers are important for tourism?"
+      },
+      {
+        "number": 6,
+        "question": "What are the advantages and disadvantages of using rivers to transport people in cities?"
+      },
+      {
+        "number": 7,
+        "question": "What is the impact of pollution on the world’s oceans?"
+      },
+      {
+        "number": 8,
+        "question": "Why are oceans the least explored area of the planet?"
+      },
+      {
+        "number": 9,
+        "question": "Do you think there needs to be greater commercial use of the oceans in the future?"
+      }
+    ]
+  },
+  {
+    "topic": "Describe an old person you know who has had an interesting life",
+    "type": 2,
+    "questionsOne": [],
+    "questionTwo": "Describe an old person you know who has had an interesting life",
+    "questionThree": [
+      {
+        "number": 1,
+        "question": "What do old people often do in their daily lives?  "
+      },
+      {
+        "number": 2,
+        "question": "Why do some people live with old people?  "
+      },
+      {
+        "number": 3,
+        "question": "Can old people and their grandchildren learn from each other when they live together?  "
+      },
+      {
+        "number": 4,
+        "question": "What are the benefits of elderly people living alone?  "
+      },
+      {
+        "number": 5,
+        "question": "Do old people prefer to stay at home or go outside? Why?  "
+      },
+      {
+        "number": 6,
+        "question": "Do you think old people's lives will improve with the development of technology?"
+      }
+    ]
+  },
+  {
+    "topic": "Describe a place (city/town) that is good for people to live in",
+    "type": 2,
+    "questionsOne": [],
+    "questionTwo": "Describe a place (city/town) that is good for people to live in",
+    "questionThree": [
+      {
+        "number": 1,
+        "question": "How different is life in the countryside to life in the city?"
+      },
+      {
+        "number": 2,
+        "question": "What are the major changes that have happened in your city?"
+      },
+      {
+        "number": 3,
+        "question": "What factors will contribute to whether a place is good to live in or not?"
+      },
+      {
+        "number": 4,
+        "question": "What are the differences between big cities and small ones?"
+      },
+      {
+        "number": 5,
+        "question": "What has happened to towns and villages in recent years in your country?"
+      },
+      {
+        "number": 6,
+        "question": "What are the differences between cities and towns?"
+      }
+    ]
+  },
+  {
+    "topic": "Describe a type of favourite food that you ate at a special event",
+    "type": 2,
+    "questionsOne": [],
+    "questionTwo": "Describe a type of favourite food that you ate at a special event",
+    "questionThree": [
+      {
+        "number": 1,
+        "question": "Do Vietnamese people grow their food?"
+      },
+      {
+        "number": 2,
+        "question": "What kind of food is generally popular in your country?"
+      },
+      {
+        "number": 3,
+        "question": "Why do some people prefer growing food themselves?"
+      },
+      {
+        "number": 4,
+        "question": "Will there be more and more people growing food in the future?"
+      },
+      {
+        "number": 5,
+        "question": "Do most people prefer vegetables bought from the supermarket or grown at home?"
+      },
+      {
+        "number": 6,
+        "question": "What plants can people grow in cities?"
+      },
+      {
+        "number": 7,
+        "question": "Are there any difficulties when people grow plants in cities?"
+      },
+      {
+        "number": 8,
+        "question": "Is it bad behavior for people to look at their phones during a meal?"
+      },
+      {
+        "number": 9,
+        "question": "Why do people like to have a big meal at traditional festivals or big events?"
+      }
+    ]
+  },
+  {
+    "topic": "Describe a subject that you would like to learn in the future",
+    "type": 2,
+    "questionsOne": [],
+    "questionTwo": "Describe a subject that you would like to learn in the future",
+    "questionThree": [
+      {
+        "number": 1,
+        "question": "What do you think about face-to-face learning with teachers?"
+      },
+      {
+        "number": 2,
+        "question": "What is more important when choosing a job, high salary or interest?"
+      },
+      {
+        "number": 3,
+        "question": "What subjects do most young people prefer to learn? Why?"
+      },
+      {
+        "number": 4,
+        "question": "What are the advantages and disadvantages of learning in a group?"
+      },
+      {
+        "number": 5,
+        "question": "Do you prefer to study alone or with a group of people?"
+      },
+      {
+        "number": 6,
+        "question": "What are the differences between online learning and offline learning?"
+      }
+    ]
+  },
+  {
+    "topic": "Describe something you own that you want to replace",
+    "type": 2,
+    "questionsOne": [],
+    "questionTwo": "Describe something you own that you want to replace",
+    "questionThree": [
+      {
+        "number": 1,
+        "question": "What are other things that you want to replace?"
+      },
+      {
+        "number": 2,
+        "question": "What kinds of things do young people like to replace?"
+      },
+      {
+        "number": 3,
+        "question": "Do old people in Vietnam like to collect and store things?"
+      },
+      {
+        "number": 4,
+        "question": "Who do you think will want new things, children or old people?"
+      },
+      {
+        "number": 5,
+        "question": "What's the difference between new things and old things?"
+      },
+      {
+        "number": 6,
+        "question": "Why do some people prefer to buy things in the supermarket rather than online?"
+      },
+      {
+        "number": 7,
+        "question": "Why do some people like to buy expensive things?"
+      },
+      {
+        "number": 8,
+        "question": "Why do young people change things more often than old people?"
+      },
+      {
+        "number": 9,
+        "question": "Why do you think some people replace things more often than others?"
+      },
+      {
+        "number": 10,
+        "question": "Why do people always want to buy new things to replace old ones?"
+      },
+      {
+        "number": 11,
+        "question": "Does consumption have any impact on the environment?"
+      }
+    ]
+  },
+  {
+    "topic": "Describe a new law that you want to implement in your country",
+    "type": 2,
+    "questionsOne": [],
+    "questionTwo": "Describe a new law that you want to implement in your country",
+    "questionThree": [
+      {
+        "number": 1,
+        "question": "Does it take a long time to introduce a new law?"
+      },
+      {
+        "number": 2,
+        "question": "Which is better: to make people obey the law, punish them or encourage them to do so?"
+      },
+      {
+        "number": 3,
+        "question": "What rules should students follow at school?"
+      },
+      {
+        "number": 4,
+        "question": "Do you think children can learn about the law outside of school?"
+      },
+      {
+        "number": 5,
+        "question": "How can parents teach children to obey rules?"
+      },
+      {
+        "number": 6,
+        "question": "What are the benefits for people to obey rules?"
+      },
+      {
+        "number": 7,
+        "question": "What kinds of behavior are considered as good behavior?"
+      },
+      {
+        "number": 8,
+        "question": "Do people in your country usually obey the law?"
+      }
+    ]
+  },
+  {
+    "topic": "Describe a person who can play an instrument or has musical talents",
+    "type": 2,
+    "questionsOne": [],
+    "questionTwo": "Describe a person who can play an instrument or has musical talents",
+    "questionThree": [
+      {
+        "number": 1,
+        "question": "What will children do after hearing music?"
+      },
+      {
+        "number": 2,
+        "question": "What kind of music do children like?"
+      },
+      {
+        "number": 3,
+        "question": "Why does the teacher play some music in class?"
+      },
+      {
+        "number": 4,
+        "question": "Why is music often played in stores?"
+      },
+      {
+        "number": 5,
+        "question": "How does the store owner know what kind of music is attractive?"
+      },
+      {
+        "number": 6,
+        "question": "Should children learn musical instruments when they are young?"
+      },
+      {
+        "number": 7,
+        "question": "Is music important in movies?"
+      }
+    ]
+  },
+  {
+    "topic": "Describe a person who often buy at the street market at cheaper price",
+    "type": 2,
+    "questionsOne": [],
+    "questionTwo": "Describe a person who often buy at the street market at cheaper price",
+    "questionThree": [
+      {
+        "number": 1,
+        "question": "What are the differences between shopping in a shopping mall and in a street market?"
+      },
+      {
+        "number": 2,
+        "question": "Which is more commonly visited in Vietnam, shopping malls or street markets?"
+      },
+      {
+        "number": 3,
+        "question": "Is advertising important?"
+      },
+      {
+        "number": 4,
+        "question": "What are the disadvantages of shopping in a street market?"
+      },
+      {
+        "number": 5,
+        "question": "How do you buy cheap products?"
+      },
+      {
+        "number": 6,
+        "question": "Do you think things are more expensive in big shopping malls?"
+      }
+    ]
+  },
+  {
+    "topic": "Describe a park/garden you enjoy visiting",
+    "type": 2,
+    "questionsOne": [],
+    "questionTwo": "Describe a park/garden you enjoy visiting",
+    "questionThree": [
+      {
+        "number": 1,
+        "question": "Describe a park/garden you enjoy visiting"
+      },
+      {
+        "number": 2,
+        "question": "Do young people like to go to parks?"
+      },
+      {
+        "number": 3,
+        "question": "What do old people like to do in parks?"
+      },
+      {
+        "number": 4,
+        "question": "What are the benefits of going to the park for young people and old people?"
+      },
+      {
+        "number": 5,
+        "question": "Why do some people like planting flowers?"
+      }
+    ]
+  },
+  {
+    "topic": "Describe a place where you thought things were too expensive",
+    "type": 2,
+    "questionsOne": [],
+    "questionTwo": "Describe a place where you thought things were too expensive",
+    "questionThree": [
+      {
+        "number": 1,
+        "question": "Why do some people still use cash?"
+      },
+      {
+        "number": 2,
+        "question": "Will the payment be paperless in the future?"
+      },
+      {
+        "number": 3,
+        "question": "What do you think of the view that time is as important as money?"
+      },
+      {
+        "number": 4,
+        "question": "Is it more important to choose a job with a high salary or with more time off?"
+      },
+      {
+        "number": 5,
+        "question": "How important is it to have a variety of payment options?"
+      },
+      {
+        "number": 6,
+        "question": "Why are things more expensive in some places than in others?"
+      }
+    ]
+  },
+  {
+    "topic": "Describe an interesting place you have been to with a friend",
+    "type": 2,
+    "questionsOne": [],
+    "questionTwo": "Describe an interesting place you have been to with a friend",
+    "questionThree": [
+      {
+        "number": 1,
+        "question": "Do you prefer to go out with a group of friends or just with a few close friends?"
+      },
+      {
+        "number": 2,
+        "question": "Does technology help people communicate better with others?"
+      },
+      {
+        "number": 3,
+        "question": "Can talking with people improve social skills?"
+      },
+      {
+        "number": 4,
+        "question": "Why don’t some people like to socialise?"
+      },
+      {
+        "number": 5,
+        "question": "How do you communicate with friends?"
+      },
+      {
+        "number": 6,
+        "question": "Why do people need friends?"
+      }
+    ]
+  },
+  {
+    "topic": "Describe a tourist attraction that very few people visit but you think is interesting",
+    "type": 2,
+    "questionsOne": [],
+    "questionTwo": "Describe a tourist attraction that very few people visit but you think is interesting",
+    "questionThree": [
+      {
+        "number": 1,
+        "question": "Should all tourist attractions be free to the public?"
+      },
+      {
+        "number": 2,
+        "question": "How can people prevent the environmental damage caused by tourism?"
+      },
+      {
+        "number": 3,
+        "question": "Do you think tourism causes environmental damage?"
+      },
+      {
+        "number": 4,
+        "question": "Do local people like to visit local tourist attractions?"
+      },
+      {
+        "number": 5,
+        "question": "What makes a tourist attraction famous?"
+      },
+      {
+        "number": 6,
+        "question": "Why do people visit tourist attractions?"
+      }
+    ]
+  },
+  {
+    "topic": "Describe a person who you are happy to know",
+    "type": 2,
+    "questionsOne": [],
+    "questionTwo": "Describe a person who you are happy to know",
+    "questionThree": [
+      {
+        "number": 1,
+        "question": "How can companies improve employees’ happiness?"
+      },
+      {
+        "number": 2,
+        "question": "Which do you think is more important in the workplace, happiness or high salaries?"
+      },
+      {
+        "number": 3,
+        "question": "Some people say that living in a happy city is boring. What do you think?"
+      },
+      {
+        "number": 4,
+        "question": "Do you think everyone shares a similar definition of happiness?"
+      },
+      {
+        "number": 5,
+        "question": "What’s the difference between adults’ and children’s happiness?"
+      },
+      {
+        "number": 6,
+        "question": "How can children feel happy?"
+      }
+    ]
+  },
+  {
+    "topic": "Describe a time that you showed something new to others",
+    "type": 2,
+    "questionsOne": [],
+    "questionTwo": "Describe a time that you showed something new to others",
+    "questionThree": [
+      {
+        "number": 1,
+        "question": "How can young people be motivated to learn new things?"
+      },
+      {
+        "number": 2,
+        "question": "What skills do you think children should learn before going to school?"
+      },
+      {
+        "number": 3,
+        "question": "Why are some people unwilling to ask for help from others while studying?"
+      },
+      {
+        "number": 4,
+        "question": "What are the differences between the things adults learn and the things that children learn?"
+      },
+      {
+        "number": 5,
+        "question": "What skills should children learn?"
+      },
+      {
+        "number": 6,
+        "question": "What qualities should a good learner have?"
+      }
+    ]
+  },
+  {
+    "topic": "Describe a person who always has strong opinions",
+    "type": 2,
+    "questionsOne": [],
+    "questionTwo": "Describe a person who always has strong opinions",
+    "questionThree": [
+      {
+        "number": 1,
+        "question": "What aspects do young people have strong opinions about?"
+      },
+      {
+        "number": 2,
+        "question": "What aspects do old people have strong opinions about?"
+      },
+      {
+        "number": 3,
+        "question": "Do you think parents should educate their children to have strong opinions?"
+      },
+      {
+        "number": 4,
+        "question": "Do you think it is good to have strong opinions?"
+      },
+      {
+        "number": 5,
+        "question": "Do you think we should only say something after thinking it through?"
+      },
+      {
+        "number": 6,
+        "question": "Which is more important, listening to others or persuading others?"
+      },
+      {
+        "number": 7,
+        "question": "Are there many young people who have strong opinions in our lives?"
+      }
+    ]
+  },
+  {
+    "topic": "Describe a time you answer a phone call from someone you don't know in a public place",
+    "type": 2,
+    "questionsOne": [],
+    "questionTwo": "Describe a time you answer a phone call from someone you don't know in a public place",
+    "questionThree": [
+      {
+        "number": 1,
+        "question": "Do most people mind others talking on the phone in public places?"
+      },
+      {
+        "number": 2,
+        "question": "What are the differences between sitting beside a person who keeps talking on the phone and a person who keeps talking to you?"
+      },
+      {
+        "number": 3,
+        "question": "Why do some people not care about what they do in public places?"
+      },
+      {
+        "number": 4,
+        "question": "Do you think parents should teach their children not to behave badly in public places?"
+      },
+      {
+        "number": 5,
+        "question": "Should people be banned from talking loudly in public places?"
+      },
+      {
+        "number": 6,
+        "question": "Is it acceptable to talk on the phone in public?"
+      }
+    ]
+  },
+  {
+    "topic": "Describe a famous person who you think will be a role model for young people",
+    "type": 2,
+    "questionsOne": [],
+    "questionTwo": "Describe a famous person who you think will be a role model for young people",
+    "questionThree": [
+      {
+        "number": 1,
+        "question": "What are the required qualities of a role model?"
+      },
+      {
+        "number": 2,
+        "question": "Are there famous people who are your role models in the sports field?"
+      },
+      {
+        "number": 3,
+        "question": "Is role model important for children?"
+      },
+      {
+        "number": 4,
+        "question": "Is there any difference between today's famous people and the past’s famous people?"
+      },
+      {
+        "number": 5,
+        "question": "What kind of people can become famous people in your country?"
+      },
+      {
+        "number": 6,
+        "question": "Do you think celebrities and social media influencers have a great impact on young people?"
+      }
+    ]
+  },
+  {
+    "topic": "Describe a special meal someone cooked for you",
+    "type": 2,
+    "questionsOne": [],
+    "questionTwo": "Describe a special meal someone cooked for you",
+    "questionThree": [
+      {
+        "number": 1,
+        "question": "Should students learn to cook in school?"
+      },
+      {
+        "number": 2,
+        "question": "Will people's eating habits change?"
+      },
+      {
+        "number": 3,
+        "question": "Will some people never eat meat?"
+      },
+      {
+        "number": 4,
+        "question": "Why do many of them not eat meat?"
+      },
+      {
+        "number": 5,
+        "question": "What would happen if there was more meat in Vietnamese food?"
+      },
+      {
+        "number": 6,
+        "question": "What do you think about vegetarians?"
+      },
+      {
+        "number": 7,
+        "question": "Are there any people who wouldn't eat meat for their whole lives?"
+      },
+      {
+        "number": 8,
+        "question": "What kinds of fast food are popular in Vietnam?"
+      },
+      {
+        "number": 9,
+        "question": "Do people in your country like to learn to cook from TV programmes?"
+      },
+      {
+        "number": 10,
+        "question": "Do you think people's eating habits would change as they get older?"
+      }
+    ]
+  },
+  {
+    "topic": "Describe your daily routine that you enjoy",
+    "type": 2,
+    "questionsOne": [],
+    "questionTwo": "Describe your daily routine that you enjoy",
+    "questionThree": []
+  },
+  {
+    "topic": "Describe a time you taught something new to a younger person",
+    "type": 2,
+    "questionsOne": [],
+    "questionTwo": "Describe a time you taught something new to a younger person",
+    "questionThree": [
+      {
+        "number": 1,
+        "question": "What skills should children learn before entering school?"
+      },
+      {
+        "number": 2,
+        "question": "What can children learn from teachers and parents?"
+      },
+      {
+        "number": 3,
+        "question": "What are the skills that you want to learn?"
+      },
+      {
+        "number": 4,
+        "question": "How does a good learner learn something new?"
+      },
+      {
+        "number": 5,
+        "question": "How can people be motivated to learn new things?"
+      },
+      {
+        "number": 6,
+        "question": "Is it possible for a person to achieve something without motivation?"
+      },
+      {
+        "number": 7,
+        "question": "Why are some people not willing to ask help from others while studying?"
+      },
+      {
+        "number": 8,
+        "question": "What are the differences between the things adults learn and the things that children learn?"
+      }
+    ]
+  },
+  {
+    "topic": "Describe a historical building you have been to",
+    "type": 2,
+    "questionsOne": [],
+    "questionTwo": "Describe a historical building you have been to",
+    "questionThree": [
+      {
+        "number": 1,
+        "question": "Should everyone know history?"
+      },
+      {
+        "number": 2,
+        "question": "Why do people visit historical buildings?"
+      },
+      {
+        "number": 3,
+        "question": "Do Vietnamese people like to visit historical buildings?"
+      },
+      {
+        "number": 4,
+        "question": "Do most people agree to the government's funding to protect historical buildings?"
+      },
+      {
+        "number": 5,
+        "question": "Is it necessary to protect historical buildings?"
+      }
+    ]
+  },
+  {
+    "topic": "Describe a person who likes to read a lot",
+    "type": 2,
+    "questionsOne": [],
+    "questionTwo": "Describe a person who likes to read a lot",
+    "questionThree": [
+      {
+        "number": 1,
+        "question": "Do you like reading?"
+      },
+      {
+        "number": 2,
+        "question": "Is reading important for teenagers?"
+      },
+      {
+        "number": 3,
+        "question": "Do you think parents should help their children develop the reading habit from an early age?"
+      },
+      {
+        "number": 4,
+        "question": "What content do people prefer to spend time watching?"
+      },
+      {
+        "number": 5,
+        "question": "Do people spend more time watching entertainment or learning content?"
+      },
+      {
+        "number": 6,
+        "question": "Do you think people of all ages need to read?"
+      },
+      {
+        "number": 7,
+        "question": "What are the differences between paper books and movies?"
+      },
+      {
+        "number": 8,
+        "question": "What reading topics are popular in your country?"
+      },
+      {
+        "number": 9,
+        "question": "Is reading for fun or for work?"
+      },
+      {
+        "number": 10,
+        "question": "Why are many people so keen on reading?"
+      }
+    ]
+  },
+  {
+    "topic": "Describe something in your study/work that has made you feel confident",
+    "type": 2,
+    "questionsOne": [],
+    "questionTwo": "Describe something in your study/work that has made you feel confident",
+    "questionThree": [
+      {
+        "number": 1,
+        "question": "What can teachers do to help their students become more confident?"
+      },
+      {
+        "number": 2,
+        "question": "How can teachers help their students become more confident by rewarding them for studying?"
+      },
+      {
+        "number": 3,
+        "question": "What can teachers do to make studying more interesting?"
+      },
+      {
+        "number": 4,
+        "question": "Do you think that children with confident parents are also confident?"
+      },
+      {
+        "number": 5,
+        "question": "Why do so many people lack confidence these days?"
+      }
+    ]
+  },
+  {
+    "topic": "Describe an old friend you have lost touch with and got in touch with again",
+    "type": 2,
+    "questionsOne": [],
+    "questionTwo": "Describe an old friend you have lost touch with and got in touch with again",
+    "questionThree": [
+      {
+        "number": 1,
+        "question": "Is it better to have a lot of friends than just a few friends?"
+      },
+      {
+        "number": 2,
+        "question": "Would having just a few friends limit your horizons?"
+      },
+      {
+        "number": 3,
+        "question": "Do you think you are good at maintaining good relationships with others?"
+      },
+      {
+        "number": 4,
+        "question": "Why do old friends lose touch with each other?"
+      },
+      {
+        "number": 5,
+        "question": "Why do people need to make new friends?"
+      },
+      {
+        "number": 6,
+        "question": "Why do we have to give up some old friends?"
+      }
+    ]
+  },
+  {
+    "topic": "Describe a person who encouraged you and helped you achieve a goal",
+    "type": 2,
+    "questionsOne": [],
+    "questionTwo": "Describe a person who encouraged you and helped you achieve a goal",
+    "questionThree": [
+      {
+        "number": 1,
+        "question": "What will encourage children to learn more?"
+      },
+      {
+        "number": 2,
+        "question": "Who do you think has a greater influence on the goal setting of children?"
+      },
+      {
+        "number": 3,
+        "question": "Do parents and teachers punish children physically nowadays?"
+      },
+      {
+        "number": 4,
+        "question": "Why is it important for teenagers to set goals?"
+      },
+      {
+        "number": 5,
+        "question": "Which is more important, competition or cooperation?"
+      },
+      {
+        "number": 6,
+        "question": "Is money the only motivation for people to work hard?"
+      },
+      {
+        "number": 7,
+        "question": "Who plays a more important role in children's education, parents or teachers?"
+      },
+      {
+        "number": 8,
+        "question": "Who do you think should set goals for children?"
+      },
+      {
+        "number": 9,
+        "question": "What should parents do if their children don't want to study?"
+      },
+      {
+        "number": 10,
+        "question": "Do you think children are more likely to achieve their goals if they are encouraged?"
+      }
+    ]
+  },
+  {
+    "topic": "Describe a time when you missed or were late for a meeting/event",
+    "type": 2,
+    "questionsOne": [],
+    "questionTwo": "Describe a time when you missed or were late for a meeting/event",
+    "questionThree": [
+      {
+        "number": 1,
+        "question": "Are you a punctual person?"
+      },
+      {
+        "number": 2,
+        "question": "Do you think it is important to be on time?"
+      },
+      {
+        "number": 3,
+        "question": "Do you always avoid being late?"
+      },
+      {
+        "number": 4,
+        "question": "Why are people often late for meetings or appointments?"
+      },
+      {
+        "number": 5,
+        "question": "Why do people miss important events?"
+      },
+      {
+        "number": 6,
+        "question": "Are people in your country often late for meetings?"
+      }
+    ]
+  },
+  {
+    "topic": "Describe a time when someone gave you something that you really wanted",
+    "type": 2,
+    "questionsOne": [],
+    "questionTwo": "Describe a time when someone gave you something that you really wanted",
+    "questionThree": []
+  },
+  {
+    "topic": "Describe a movie you watched recently",
+    "type": 2,
+    "questionsOne": [],
+    "questionTwo": "Describe a movie you watched recently",
+    "questionThree": [
+      {
+        "number": 1,
+        "question": "What kinds of movies do you think are successful in your country?"
+      },
+      {
+        "number": 2,
+        "question": "Do Vietnamese people prefer to watch domestic movies or foreign movies?"
+      },
+      {
+        "number": 3,
+        "question": "Do you think only well-known directors can create the best movies?"
+      },
+      {
+        "number": 4,
+        "question": "Why do many movies starring famous actors or actresses fail to achieve good results?"
+      },
+      {
+        "number": 5,
+        "question": "Why do people prefer to watch movies in the cinema?"
+      },
+      {
+        "number": 6,
+        "question": "Do you think successful movies should have well-known actors or actresses in leading roles?"
+      },
+      {
+        "number": 7,
+        "question": "What are the factors that make a successful movie?"
+      }
+    ]
+  },
+  {
+    "topic": "Describe a time when you lost an important and valuable item",
+    "type": 2,
+    "questionsOne": [],
+    "questionTwo": "Describe a time when you lost an important and valuable item",
+    "questionThree": [
+      {
+        "number": 1,
+        "question": "Is it important for students to be organized?"
+      },
+      {
+        "number": 2,
+        "question": "Are there any good ways to remind us not to forget or lose things?"
+      },
+      {
+        "number": 3,
+        "question": "What should parents do to teach their children not to lose things?"
+      },
+      {
+        "number": 4,
+        "question": "What do people often do after losing things?"
+      },
+      {
+        "number": 5,
+        "question": "What are the reasons why people often misplace or lose things?"
+      },
+      {
+        "number": 6,
+        "question": "What are some common items that people tend to lose easily?"
+      }
+    ]
+  },
+  {
+    "topic": "Describe a person who is good at making things by hand (toys, furniture, etc.)",
+    "type": 2,
+    "questionsOne": [],
+    "questionTwo": "Describe a person who is good at making things by hand (toys, furniture, etc.)",
+    "questionThree": [
+      {
+        "number": 1,
+        "question": "Do you think handmade is a good thing?"
+      },
+      {
+        "number": 2,
+        "question": "Do you think children like making things by hand?"
+      },
+      {
+        "number": 3,
+        "question": "Is traditional craftsmanship important to your country’s industry?"
+      },
+      {
+        "number": 4,
+        "question": "What kinds of handmade things did you make as a child?"
+      },
+      {
+        "number": 5,
+        "question": "What can handmade products bring to tourist attractions?"
+      },
+      {
+        "number": 6,
+        "question": "How does modern technology change the handicraft industry?"
+      },
+      {
+        "number": 7,
+        "question": "Is it reasonable to charge a high price for handmade things?"
+      },
+      {
+        "number": 8,
+        "question": "Are there any traditional handicrafts in your hometown?"
+      },
+      {
+        "number": 9,
+        "question": "Why do many children like to make things by hand?"
+      },
+      {
+        "number": 10,
+        "question": "What are the benefits for students to learn to make things by hand?"
+      }
+    ]
+  },
+  {
+    "topic": "Describe a time when you helped a child",
+    "type": 2,
+    "questionsOne": [],
+    "questionTwo": "Describe a time when you helped a child",
+    "questionThree": [
+      {
+        "number": 1,
+        "question": "Should developed countries provide technological help to developing countries?"
+      },
+      {
+        "number": 2,
+        "question": "Why is it important to help neighbors?"
+      },
+      {
+        "number": 3,
+        "question": "Do people in your country like to help neighbors?"
+      },
+      {
+        "number": 4,
+        "question": "What can you do to help your neighbors?"
+      },
+      {
+        "number": 5,
+        "question": "What can schools do to develop students’ awareness of volunteering?"
+      },
+      {
+        "number": 6,
+        "question": "Why is it necessary to do volunteer services?"
+      }
+    ]
+  },
+  {
+    "topic": "Describe something you received for free",
+    "type": 2,
+    "questionsOne": [],
+    "questionTwo": "Describe something you received for free",
+    "questionThree": [
+      {
+        "number": 1,
+        "question": "What kinds of free services should be provided by the government?"
+      },
+      {
+        "number": 2,
+        "question": "Will people be happy when they receive free things?"
+      },
+      {
+        "number": 3,
+        "question": "Is it necessary to provide free public transportation?"
+      },
+      {
+        "number": 4,
+        "question": "Why should everyone have access to basic healthcare?"
+      },
+      {
+        "number": 5,
+        "question": "Why do customers like to receive free gifts from companies?"
+      },
+      {
+        "number": 6,
+        "question": "Is it good or bad for people to have a free education in the future?"
+      }
+    ]
+  },
+  {
+    "topic": "Describe a gift you have received that was important to you",
+    "type": 2,
+    "questionsOne": [],
+    "questionTwo": "Describe a gift you have received that was important to you",
+    "questionThree": [
+      {
+        "number": 1,
+        "question": "Do you enjoy giving and receiving gifts? Why or why not?"
+      },
+      {
+        "number": 2,
+        "question": "Who usually gives you gifts?"
+      },
+      {
+        "number": 3,
+        "question": "Who do you give gifts to?"
+      },
+      {
+        "number": 4,
+        "question": "In your country, when do people usually give gifts?"
+      },
+      {
+        "number": 5,
+        "question": "What kinds of gifts do they give?"
+      },
+      {
+        "number": 6,
+        "question": "Do you think gift-giving customs are different now than they were in the past? How?"
+      },
+      {
+        "number": 7,
+        "question": "Do you think they will change in the future? How?"
+      }
+    ]
+  },
+  {
+    "topic": "Describe a photograph of yourself that you like",
+    "type": 2,
+    "questionsOne": [],
+    "questionTwo": "Describe a photograph of yourself that you like",
+    "questionThree": [
+      {
+        "number": 1,
+        "question": "What do most people in your country use to take photos?"
+      },
+      {
+        "number": 2,
+        "question": "What kinds of devices do people like to use for taking photos these days?"
+      },
+      {
+        "number": 3,
+        "question": "Is it easier to take pictures now than in the past?"
+      },
+      {
+        "number": 4,
+        "question": "Why is taking photographs such an important part of people’s lives?"
+      },
+      {
+        "number": 5,
+        "question": "Why do some people like to keep photos?"
+      },
+      {
+        "number": 6,
+        "question": "Why do some people don’t like to keep photos of themselves?"
+      },
+      {
+        "number": 7,
+        "question": "Why do some people like to delete photos?"
+      },
+      {
+        "number": 8,
+        "question": "Do you agree that people rely too much on photographs to remember people and places?"
+      },
+      {
+        "number": 9,
+        "question": "How are photographs used to help people learn?"
+      },
+      {
+        "number": 10,
+        "question": "How are photographs used in textbooks and how are they used in advertisements?"
+      },
+      {
+        "number": 11,
+        "question": "Why can one photograph of an important news event be so powerful?"
+      },
+      {
+        "number": 12,
+        "question": "What photos do people often hang on the wall at home?"
+      },
+      {
+        "number": 13,
+        "question": "How do people keep their photos?"
+      },
+      {
+        "number": 14,
+        "question": "Is it difficult for people to learn how to take good photos?"
+      },
+      {
+        "number": 15,
+        "question": "Why do people take photos?"
+      }
+    ]
+  },
+  {
+    "topic": "Describe the place where you took photos more than once",
+    "type": 2,
+    "questionsOne": [],
+    "questionTwo": "Describe the place where you took photos more than once",
+    "questionThree": [
+      {
+        "number": 1,
+        "question": "Where do people like to take photos?"
+      },
+      {
+        "number": 2,
+        "question": "Do young people take photos more than old people? Why?"
+      },
+      {
+        "number": 3,
+        "question": "Why do so many people spend money to take photos?"
+      },
+      {
+        "number": 4,
+        "question": "Why do people want a professional to take their photos?"
+      },
+      {
+        "number": 5,
+        "question": "When do people need a professional to take photos for them ?"
+      },
+      {
+        "number": 6,
+        "question": "Do you think being a photographer is a good job?"
+      },
+      {
+        "number": 7,
+        "question": "On what occasions do people need formal photos?"
+      },
+      {
+        "number": 8,
+        "question": "Do you think being a photographer is a good job?"
+      },
+      {
+        "number": 9,
+        "question": "Would you pay a lot of money to hire a photographer?"
+      },
+      {
+        "number": 10,
+        "question": "Where do people often like to take photos?"
+      }
+    ]
+  },
+  {
+    "topic": "Describe a noisy place you have been to",
+    "type": 2,
+    "questionsOne": [],
+    "questionTwo": "Describe a noisy place you have been to",
+    "questionThree": [
+      {
+        "number": 1,
+        "question": "Do you think it is good for children to make noise?"
+      },
+      {
+        "number": 2,
+        "question": "Should children not be allowed to make noise under any circumstances?"
+      },
+      {
+        "number": 3,
+        "question": "What kinds of noises are there in our life?"
+      },
+      {
+        "number": 4,
+        "question": "Which area is exposed to noise more, the city or the countryside?"
+      },
+      {
+        "number": 5,
+        "question": "How would people usually respond to noises in your country?"
+      },
+      {
+        "number": 6,
+        "question": "How can people consider others' feelings when chatting in public?"
+      }
+    ]
+  },
+  {
+    "topic": "Describe an indoor or outdoor place where it was easy for you to study",
+    "type": 2,
+    "questionsOne": [],
+    "questionTwo": "Describe an indoor or outdoor place where it was easy for you to study",
+    "questionThree": [
+      {
+        "number": 1,
+        "question": "Do you like to learn on your own or with others?"
+      },
+      {
+        "number": 2,
+        "question": "What's the difference between learning face-to-face with teachers and learning by yourself?"
+      },
+      {
+        "number": 3,
+        "question": "Do you prefer to study at home or study in other places?"
+      },
+      {
+        "number": 4,
+        "question": "What are the benefits of gaining work experience while studying?"
+      },
+      {
+        "number": 5,
+        "question": "What are the advantages and disadvantages of studying with other people?"
+      },
+      {
+        "number": 6,
+        "question": "Do most people like to study in a noisy place?"
+      }
+    ]
+  },
+  {
+    "topic": "Describe a party that you enjoyed",
+    "type": 2,
+    "questionsOne": [],
+    "questionTwo": "Describe a party that you enjoyed",
+    "questionThree": []
+  },
+  {
+    "topic": "Describe a prize you have received (e.g. a medal, money, something valuable)",
+    "type": 2,
+    "questionsOne": [],
+    "questionTwo": "Describe a prize you have received (e.g. a medal, money, something valuable)",
+    "questionThree": [
+      {
+        "number": 1,
+        "question": "Do you think competition is all about the prize?"
+      },
+      {
+        "number": 2,
+        "question": "What prizes should schools set for students?"
+      },
+      {
+        "number": 3,
+        "question": "What criteria should be set for students to win a particular prize?"
+      },
+      {
+        "number": 4,
+        "question": "Why do many companies offer prizes to their customers?"
+      },
+      {
+        "number": 5,
+        "question": "Why should we set prizes for competitions?"
+      },
+      {
+        "number": 6,
+        "question": "Why do some companies encourage employees to compete with each other?"
+      }
+    ]
+  },
+  {
+    "topic": "Describe a crowded place you went to",
+    "type": 2,
+    "questionsOne": [],
+    "questionTwo": "Describe a crowded place you went to",
+    "questionThree": [
+      {
+        "number": 1,
+        "question": "Which cities are crowded in your country?"
+      },
+      {
+        "number": 2,
+        "question": "Will there be more or less green space in cities in the future?"
+      },
+      {
+        "number": 3,
+        "question": "Will people use bikes more or less in cities in the future?"
+      },
+      {
+        "number": 4,
+        "question": "Do you think it is a good trend to have more big cities?"
+      },
+      {
+        "number": 5,
+        "question": "Do you think there are some people who enjoy crowded places?"
+      },
+      {
+        "number": 6,
+        "question": "Why do people go to crowded places?"
+      }
+    ]
+  },
+  {
+    "topic": "Describe a natural place (e.g. park, mountain)",
+    "type": 2,
+    "questionsOne": [],
+    "questionTwo": "Describe a natural place (e.g. park, mountain)",
+    "questionThree": [
+      {
+        "number": 1,
+        "question": "What kind of people like to visit natural places?"
+      },
+      {
+        "number": 2,
+        "question": "What are the differences between a natural place and a city?"
+      },
+      {
+        "number": 3,
+        "question": "Is going to the park the only way to get close to nature?"
+      },
+      {
+        "number": 4,
+        "question": "Do you know any wild animals in the city?"
+      },
+      {
+        "number": 5,
+        "question": "Do you think it is a good idea to let animals stay in local parks for people to visit?"
+      }
+    ]
+  },
+  {
+    "topic": "Describe an important plant that grows in your country",
+    "type": 2,
+    "questionsOne": [],
+    "questionTwo": "Describe an important plant that grows in your country",
+    "questionThree": [
+      {
+        "number": 1,
+        "question": "What are the features of living in the countryside?"
+      },
+      {
+        "number": 2,
+        "question": "Should schools teach children how to grow plants?"
+      },
+      {
+        "number": 3,
+        "question": "Why do some people prefer to live in the countryside?"
+      },
+      {
+        "number": 4,
+        "question": "Have new kinds of plants been grown in your city recently?"
+      },
+      {
+        "number": 5,
+        "question": "Why do some people like to keep plants at home?"
+      },
+      {
+        "number": 6,
+        "question": "Are there many trees in your city?"
+      }
+    ]
+  },
+  {
+    "topic": "Describe a city you would recommend as a nice place to live (not your hometown)",
+    "type": 2,
+    "questionsOne": [],
+    "questionTwo": "Describe a city you would recommend as a nice place to live (not your hometown)",
+    "questionThree": [
+      {
+        "number": 1,
+        "question": "What kinds of places do older people prefer to live in?"
+      },
+      {
+        "number": 2,
+        "question": "What are the advantages of living close to the workplace?"
+      },
+      {
+        "number": 3,
+        "question": "Why do many people move to the city?"
+      },
+      {
+        "number": 4,
+        "question": "Where do people like to live in your country?"
+      },
+      {
+        "number": 5,
+        "question": "Why do people move from one place to another?"
+      },
+      {
+        "number": 6,
+        "question": "What should people prepare before they move to a different city?"
+      },
+      {
+        "number": 7,
+        "question": "What factors make a city liveable?"
+      }
+    ]
+  },
+  {
+    "topic": "Describe a countryside that you have been to",
+    "type": 2,
+    "questionsOne": [],
+    "questionTwo": "Describe a countryside that you have been to",
+    "questionThree": [
+      {
+        "number": 1,
+        "question": "What are the differences between the city and the countryside?"
+      },
+      {
+        "number": 2,
+        "question": "What are the advantages and disadvantages of living in the countryside?"
+      },
+      {
+        "number": 3,
+        "question": "What kind of people would like to stay in the countryside?"
+      },
+      {
+        "number": 4,
+        "question": "Do people go to the countryside to travel or to live?"
+      },
+      {
+        "number": 5,
+        "question": "Do most people prefer to live in big cities or in the countryside?"
+      },
+      {
+        "number": 6,
+        "question": "Do people in your country like to go hiking?"
+      }
+    ]
+  },
+  {
+    "topic": "Describe an invention that is useful in your daily life",
+    "type": 2,
+    "questionsOne": [],
+    "questionTwo": "Describe an invention that is useful in your daily life",
+    "questionThree": [
+      {
+        "number": 1,
+        "question": "What qualities do inventors have?"
+      },
+      {
+        "number": 2,
+        "question": "Do you think only scientists can invent new things?"
+      },
+      {
+        "number": 3,
+        "question": "What inventions do you think should be improved?"
+      },
+      {
+        "number": 4,
+        "question": "Are there any other inventions that make the world better?"
+      },
+      {
+        "number": 5,
+        "question": "Do all inventions bring benefits to our world?"
+      },
+      {
+        "number": 6,
+        "question": "Who should support and sponsor inventors? governments or private companies?"
+      }
+    ]
+  },
+  {
+    "topic": "Describe a time when someone asked for your opinion",
+    "type": 2,
+    "questionsOne": [],
+    "questionTwo": "Describe a time when someone asked for your opinion",
+    "questionThree": [
+      {
+        "number": 1,
+        "question": "What should a company do when receiving feedback about its products?"
+      },
+      {
+        "number": 2,
+        "question": "Should teachers give advice to children?"
+      },
+      {
+        "number": 3,
+        "question": "What are the disadvantages of sharing opinions on the Internet?"
+      },
+      {
+        "number": 4,
+        "question": "Why do people like to express their opinions on the Internet nowadays?"
+      },
+      {
+        "number": 5,
+        "question": "Are there any apps designed for collecting opinions about products or services?"
+      },
+      {
+        "number": 6,
+        "question": "Why do some people dislike giving their opinions?"
+      }
+    ]
+  },
+  {
+    "topic": "Describe a difficult decision that you made and had a good result",
+    "type": 2,
+    "questionsOne": [],
+    "questionTwo": "Describe a difficult decision that you made and had a good result",
+    "questionThree": [
+      {
+        "number": 1,
+        "question": "Do advertisements influence consumers' decisions?"
+      },
+      {
+        "number": 2,
+        "question": "Who do young people like to ask for advice when making decisions?"
+      },
+      {
+        "number": 3,
+        "question": "Do you think it’s necessary for kids to make as many decisions by themselves as they can?"
+      },
+      {
+        "number": 4,
+        "question": "Do you think some people can make decisions without asking for advice from others?"
+      },
+      {
+        "number": 5,
+        "question": "Do you think young people are easily influenced by others when they make decisions? Why or why not?"
+      },
+      {
+        "number": 6,
+        "question": "What kinds of decisions do young people have to make?"
+      }
+    ]
+  },
+  {
+    "topic": "Describe a time you used your cell phone or smartphone to do something important",
+    "type": 2,
+    "questionsOne": [],
+    "questionTwo": "Describe a time you used your cell phone or smartphone to do something important",
+    "questionThree": [
+      {
+        "number": 1,
+        "question": "What are the differences between young people and old people when using a cellphone?"
+      },
+      {
+        "number": 2,
+        "question": "What do you usually do with a cellphone?"
+      },
+      {
+        "number": 3,
+        "question": "Which one is more important, using a cellphone to make phone calls or to read messages?"
+      },
+      {
+        "number": 4,
+        "question": "Do you think there should be a law to stop people from making phone calls in public?"
+      },
+      {
+        "number": 5,
+        "question": "What can be done to stop cell phone addiction?"
+      },
+      {
+        "number": 6,
+        "question": "Do you think it is too late to call others at 11 or 12 o'clock at night?"
+      }
+    ]
+  },
+  {
+    "topic": "Describe a way or change that helps you save a lot of time",
+    "type": 2,
+    "questionsOne": [],
+    "questionTwo": "Describe a way or change that helps you save a lot of time",
+    "questionThree": [
+      {
+        "number": 1,
+        "question": "Does technology help people save time? How and why?  "
+      },
+      {
+        "number": 2,
+        "question": "What can people do to save time?  "
+      },
+      {
+        "number": 3,
+        "question": "Do you think parents should be responsible for teaching children to save time?  "
+      },
+      {
+        "number": 4,
+        "question": "Do people who can manage time well become successful more easily?  "
+      },
+      {
+        "number": 5,
+        "question": "Is it necessary for children to learn time management?  "
+      },
+      {
+        "number": 6,
+        "question": "What can schools do to help students learn time management?"
+      }
+    ]
+  },
+  {
+    "topic": "Describe a friend you like to talk with",
+    "type": 2,
+    "questionsOne": [],
+    "questionTwo": "Describe a friend you like to talk with",
+    "questionThree": [
+      {
+        "number": 1,
+        "question": "Where do young people like to meet?  "
+      },
+      {
+        "number": 2,
+        "question": "What do young people talk about when they meet up?  "
+      },
+      {
+        "number": 3,
+        "question": "Do you think people should be honest when talking with friends?  "
+      },
+      {
+        "number": 4,
+        "question": "On what occasions do people talk with strangers?  "
+      },
+      {
+        "number": 5,
+        "question": "What makes a good listener?  "
+      },
+      {
+        "number": 6,
+        "question": "What are the differences between talking to a friend and talking to a stranger? "
+      }
+    ]
+  },
+  {
+    "topic": "Describe an experience on good service in a store",
+    "type": 2,
+    "questionsOne": [],
+    "questionTwo": "Describe an experience on good service in a store",
+    "questionThree": [
+      {
+        "number": 1,
+        "question": "Do you often go shopping?"
+      },
+      {
+        "number": 2,
+        "question": "Do people still like to go shopping?"
+      },
+      {
+        "number": 3,
+        "question": "What are the differences between large shop services and small store ones?"
+      },
+      {
+        "number": 4,
+        "question": "Can consumption drive economic growth?"
+      },
+      {
+        "number": 5,
+        "question": "What are the advantages and disadvantages of shopping online?"
+      },
+      {
+        "number": 6,
+        "question": "What are the differences between online shopping and in-store shopping?"
+      },
+      {
+        "number": 7,
+        "question": "Why do some people not like shopping in small shops?"
+      },
+      {
+        "number": 8,
+        "question": "What are the advantages and disadvantages of shopping in small shops?"
+      },
+      {
+        "number": 9,
+        "question": "Why are shopping malls so popular in Vietnam?"
+      }
+    ]
+  },
+  {
+    "topic": "Describe a challenge you faced that you thought was rather difficult",
+    "type": 2,
+    "questionsOne": [],
+    "questionTwo": "Describe a challenge you faced that you thought was rather difficult",
+    "questionThree": [
+      {
+        "number": 1,
+        "question": "What do children often do when they face a challenge?"
+      },
+      {
+        "number": 2,
+        "question": "Is it easy for children to overcome a challenge?"
+      },
+      {
+        "number": 3,
+        "question": "Do most people choose to face a challenge alone or with others?"
+      },
+      {
+        "number": 4,
+        "question": "Why do some people enjoy doing extreme sports?"
+      },
+      {
+        "number": 5,
+        "question": "What challenges would people face when learning new sports?"
+      },
+      {
+        "number": 6,
+        "question": "What activities do you think would make children feel challenged? Why?"
+      }
+    ]
+  },
+  {
+    "topic": "Describe a place where you would like to learn about the culture there (e.g.library, theatre, museum)",
+    "type": 2,
+    "questionsOne": [],
+    "questionTwo": "Describe a place where you would like to learn about the culture there (e.g.library, theatre, museum)",
+    "questionThree": [
+      {
+        "number": 1,
+        "question": "How does the Internet affect culture?"
+      },
+      {
+        "number": 2,
+        "question": "How is a culture formed?"
+      },
+      {
+        "number": 3,
+        "question": "What kind of culture is popular among the young?"
+      },
+      {
+        "number": 4,
+        "question": "Are young people in Vietnam interested in cultural knowledge?"
+      },
+      {
+        "number": 5,
+        "question": "How do you think culture will be presented in the future?"
+      },
+      {
+        "number": 6,
+        "question": "Do you think museums should be free for young people?"
+      },
+      {
+        "number": 7,
+        "question": "Does the culture of the past have an impact on today’s culture?"
+      },
+      {
+        "number": 8,
+        "question": "Which is more important in terms of culture, literature or music?"
+      },
+      {
+        "number": 9,
+        "question": "How do young people learn about different cultures?"
+      }
+    ]
+  },
+  {
+    "topic": "Describe a public park or garden",
+    "type": 2,
+    "questionsOne": [],
+    "questionTwo": "Describe a public park or garden",
+    "questionThree": [
+      {
+        "number": 1,
+        "question": "How can we encourage young people to go to parks more often?  "
+      },
+      {
+        "number": 2,
+        "question": "What tourist attractions are popular in Vietnam?  "
+      },
+      {
+        "number": 3,
+        "question": "Why do people like to visit tourist attractions?  "
+      },
+      {
+        "number": 4,
+        "question": "What are the differences between a garden and a natural area?  "
+      },
+      {
+        "number": 5,
+        "question": "What facilities are needed in a park?  "
+      },
+      {
+        "number": 6,
+        "question": "Is it necessary to have public parks in cities?"
+      }
+    ]
+  },
+  {
+    "topic": "Describe a room you have been to in someone else's house",
+    "type": 2,
+    "questionsOne": [],
+    "questionTwo": "Describe a room you have been to in someone else's house",
+    "questionThree": [
+      {
+        "number": 1,
+        "question": "Do you go to someone else’s house during the spring festival (Tet’s hoilday)? Why?"
+      },
+      {
+        "number": 2,
+        "question": "Why do people invite others to their house?"
+      },
+      {
+        "number": 3,
+        "question": "Do young people or old people prefer to stay at home?"
+      }
+    ]
+  },
+  {
+    "topic": "Describe an occasion when you wore your best clothes",
+    "type": 2,
+    "questionsOne": [],
+    "questionTwo": "Describe an occasion when you wore your best clothes",
+    "questionThree": [
+      {
+        "number": 1,
+        "question": "On which occasions do people wear formal clothes in your country?"
+      },
+      {
+        "number": 2,
+        "question": "Why do some people dislike wearing formal clothes?"
+      },
+      {
+        "number": 3,
+        "question": "Do you think people spend too much money on clothes for special occasions?"
+      },
+      {
+        "number": 4,
+        "question": "Why do some people like wearing the traditional clothes of their country?"
+      },
+      {
+        "number": 5,
+        "question": "Do you think people will stop wearing traditional clothes in the future?"
+      },
+      {
+        "number": 6,
+        "question": "Is it a good thing for people around the world to dress in a similar way?"
+      },
+      {
+        "number": 7,
+        "question": "Do you think people place too much importance on fashionable clothing?"
+      },
+      {
+        "number": 8,
+        "question": "Do you think about the view that the fashion industry must consider environmental issues more?"
+      },
+      {
+        "number": 9,
+        "question": "Do you think fashion design is a meaningful art form?"
+      },
+      {
+        "number": 10,
+        "question": "Who would wear formal clothes more often, young people or old people?"
+      },
+      {
+        "number": 11,
+        "question": "Why do some people like to wear expensive clothes?"
+      },
+      {
+        "number": 12,
+        "question": "Do old people change their style of dressing?"
+      },
+      {
+        "number": 13,
+        "question": "Do you think people need to dress formally in the workplace?"
+      }
+    ]
+  },
+  {
+    "topic": "Describe a good decision someone just made recently",
+    "type": 2,
+    "questionsOne": [],
+    "questionTwo": "Describe a good decision someone just made recently",
+    "questionThree": [
+      {
+        "number": 1,
+        "question": "What decisions do most people have to make every day?"
+      },
+      {
+        "number": 2,
+        "question": "At what age do children start making their own decisions?"
+      },
+      {
+        "number": 3,
+        "question": "Why do some people find it hard to make everyday decisions?"
+      },
+      {
+        "number": 4,
+        "question": "What helps people to make decisions about the future?"
+      },
+      {
+        "number": 5,
+        "question": "What are the advantages of making decisions about the future at a young age?"
+      },
+      {
+        "number": 6,
+        "question": "What are the disadvantages of making decisions about the future at a young age?"
+      },
+      {
+        "number": 7,
+        "question": "Do you think people should always stick to the decisions they make?"
+      },
+      {
+        "number": 8,
+        "question": "Do you think important decisions are best made alone?"
+      },
+      {
+        "number": 9,
+        "question": "Do you think the best decisions are always made by analyzing the facts?"
+      },
+      {
+        "number": 10,
+        "question": "Do you think about the view that the smallest decisions can have the greatest impact on people’s lives?"
+      }
+    ]
+  },
+  {
+    "topic": "Describing a person who often gives advice to others",
+    "type": 2,
+    "questionsOne": [],
+    "questionTwo": "Describing a person who often gives advice to others",
+    "questionThree": [
+      {
+        "number": 1,
+        "question": "Are professional consultancy services expensive in your country?"
+      },
+      {
+        "number": 2,
+        "question": "Do you think the advice parents give their children is always good?"
+      },
+      {
+        "number": 3,
+        "question": "Why do some people like to ask others for advice on almost everything?"
+      },
+      {
+        "number": 4,
+        "question": "Do people often ask for advice from professionals, like a lawyer?"
+      },
+      {
+        "number": 5,
+        "question": "Do you follow the advice of your family members?"
+      },
+      {
+        "number": 6,
+        "question": "Who should people ask for advice on big issues, family members or friends?"
+      }
+    ]
+  },
+  {
+    "topic": "Describe a place you know where people can see a lot of wildlife (e.g. animals, birds, insects)",
+    "type": 2,
+    "questionsOne": [],
+    "questionTwo": "Describe a place you know where people can see a lot of wildlife (e.g. animals, birds, insects)",
+    "questionThree": [
+      {
+        "number": 1,
+        "question": "Which is the better way to see wildlife, watching documentaries or going into the wild?"
+      },
+      {
+        "number": 2,
+        "question": "What impacts does only seeing wild animals in zoos have on children's understanding of these animals?"
+      },
+      {
+        "number": 3,
+        "question": "Are there many wildlife documentaries produced in your country?"
+      },
+      {
+        "number": 4,
+        "question": "Are wild animals easy to spot in your country?"
+      },
+      {
+        "number": 5,
+        "question": "Should parents take their children to the zoo to see wild animals?"
+      },
+      {
+        "number": 6,
+        "question": "Why are most children interested in wild animals?"
+      }
+    ]
+  },
+  {
+    "topic": "Describe someone else’s room you enjoy spending time in",
+    "type": 2,
+    "questionsOne": [],
+    "questionTwo": "Describe someone else’s room you enjoy spending time in",
+    "questionThree": [
+      {
+        "number": 1,
+        "question": "Who likes to stay at home more, young people or old people?"
+      },
+      {
+        "number": 2,
+        "question": "What are the most enjoyable parts of having a meal together with your family?"
+      },
+      {
+        "number": 3,
+        "question": "Why do people often take gifts with them when they visit others' homes?"
+      },
+      {
+        "number": 4,
+        "question": "Do most people visit other people's houses during the Spring Festival?"
+      }
+    ]
+  },
+  {
+    "topic": "Describe the ideal home(e.g. house or apartment) that you would like to live in",
+    "type": 2,
+    "questionsOne": [],
+    "questionTwo": "Describe the ideal home(e.g. house or apartment) that you would like to live in",
+    "questionThree": [
+      {
+        "number": 1,
+        "question": "What’s the difference between home in the past and nowadays?"
+      },
+      {
+        "number": 2,
+        "question": "Why are apartments welcome in some places while not in other places?"
+      },
+      {
+        "number": 3,
+        "question": "What would people normally consider when they rent or buy a house or an apartment?"
+      },
+      {
+        "number": 4,
+        "question": "Do different people have different preferences for houses or apartments?"
+      },
+      {
+        "number": 5,
+        "question": "What do you think buildings will be like in the future?"
+      },
+      {
+        "number": 6,
+        "question": "Why do some people choose to live in the city center?"
+      },
+      {
+        "number": 7,
+        "question": "What are apartments like in your country?"
+      }
+    ]
+  },
+  {
+    "topic": "Describe something you lost which is important",
+    "type": 2,
+    "questionsOne": [],
+    "questionTwo": "Describe something you lost which is important",
+    "questionThree": [
+      {
+        "number": 1,
+        "question": "What important things do people tend to lose in daily life?"
+      },
+      {
+        "number": 2,
+        "question": "How do they solve the problem of losing these things?"
+      },
+      {
+        "number": 3,
+        "question": "Why do some people lose things easily?"
+      },
+      {
+        "number": 4,
+        "question": "How should parents teach their children?"
+      },
+      {
+        "number": 5,
+        "question": "Is organisation important for a child?"
+      }
+    ]
+  },
+  {
+    "topic": "Describe a place you visited with your friends where you had a good time",
+    "type": 2,
+    "questionsOne": [],
+    "questionTwo": "Describe a place you visited with your friends where you had a good time",
+    "questionThree": [
+      {
+        "number": 1,
+        "question": "How do you communicate with friends?"
+      },
+      {
+        "number": 2,
+        "question": "Do you think most people prefer to stay alone?"
+      },
+      {
+        "number": 3,
+        "question": "Can talking with people improve social skills?"
+      },
+      {
+        "number": 4,
+        "question": "Does technology help people communicate better with others?"
+      },
+      {
+        "number": 5,
+        "question": "How long should we spend time with others?"
+      },
+      {
+        "number": 6,
+        "question": "What skills can people learn when spending time with others?"
+      },
+      {
+        "number": 7,
+        "question": "People should spend more time with close friends or groups of friends?"
+      }
+    ]
+  },
+  {
+    "topic": "Describe an enjoyable journey by public transport",
+    "type": 2,
+    "questionsOne": [],
+    "questionTwo": "Describe an enjoyable journey by public transport",
+    "questionThree": [
+      {
+        "number": 1,
+        "question": "Why do people choose to travel by public transport?"
+      },
+      {
+        "number": 2,
+        "question": "Why do more and more people like to travel by plane?"
+      },
+      {
+        "number": 3,
+        "question": "Do you think offering free public transport will solve traffic problems in the city?"
+      },
+      {
+        "number": 4,
+        "question": "What are the disadvantages of traveling by public transport?"
+      },
+      {
+        "number": 5,
+        "question": "What do you think are the cheapest and most expensive means of transport?"
+      },
+      {
+        "number": 6,
+        "question": "What are the difficulties that commuters face during rush hours?"
+      }
+    ]
+  },
+  {
+    "topic": "Describe the most expensive item you have ever bought",
+    "type": 2,
+    "questionsOne": [],
+    "questionTwo": "Describe the most expensive item you have ever bought",
+    "questionThree": [
+      {
+        "number": 1,
+        "question": "Do people spend too much time shopping these days? Why?"
+      }
+    ]
+  },
+  {
+    "topic": "Describe a person who thinks music is important and enjoys music",
+    "type": 2,
+    "questionsOne": [],
+    "questionTwo": "Describe a person who thinks music is important and enjoys music",
+    "questionThree": [
+      {
+        "number": 1,
+        "question": "What do you think about playing music for children in class?  "
+      },
+      {
+        "number": 2,
+        "question": "Why do many teachers incorporate music into the classroom?  "
+      },
+      {
+        "number": 3,
+        "question": "Do you think there are any advantages to a shop with music playing?  "
+      },
+      {
+        "number": 4,
+        "question": "Would people’s shopping behaviour be affected in a shop with music?  "
+      },
+      {
+        "number": 5,
+        "question": "What do you think would be the effect of background music in a film?  "
+      },
+      {
+        "number": 6,
+        "question": "Why are musical movies so popular?"
+      }
+    ]
+  },
+  {
+    "topic": "Describe a wildlife you’ve seen before",
+    "type": 2,
+    "questionsOne": [],
+    "questionTwo": "Describe a wildlife you’ve seen before",
+    "questionThree": [
+      {
+        "number": 1,
+        "question": "Can you often see wildlife in Vietnam?"
+      },
+      {
+        "number": 2,
+        "question": "Do you think wildlife is popular among children in Vietnam?"
+      },
+      {
+        "number": 3,
+        "question": "Are there many documentary films about wildlife in Vietnam?"
+      }
+    ]
+  },
+  {
+    "topic": "Describe an occasion when your family asked you for help",
+    "type": 2,
+    "questionsOne": [],
+    "questionTwo": "Describe an occasion when your family asked you for help",
+    "questionThree": [
+      {
+        "number": 1,
+        "question": "How can children help their parents at home?"
+      },
+      {
+        "number": 2,
+        "question": "Should parents always help their children with everything?"
+      },
+      {
+        "number": 3,
+        "question": "What can children learn by helping others?"
+      },
+      {
+        "number": 4,
+        "question": "Do neighbours often help each other in your country?"
+      },
+      {
+        "number": 5,
+        "question": "How do people know that their neighbours might need help?"
+      }
+    ]
+  },
+  {
+    "topic": "Describe a time you missed an important appointment for something",
+    "type": 2,
+    "questionsOne": [],
+    "questionTwo": "Describe a time you missed an important appointment for something",
+    "questionThree": []
+  },
+  {
+    "topic": "Describe a place in your hometown that you would like to take your parents/friends",
+    "type": 2,
+    "questionsOne": [],
+    "questionTwo": "Describe a place in your hometown that you would like to take your parents/friends",
+    "questionThree": []
+  },
+  {
+    "topic": "Describe a place in your hometown that is different from others and that you enjoy visiting with your parents or friends",
+    "type": 2,
+    "questionsOne": [],
+    "questionTwo": "Describe a place in your hometown that is different from others and that you enjoy visiting with your parents or friends",
+    "questionThree": [
+      {
+        "number": 1,
+        "question": "What attracts people to visit places other than their hometown?"
+      },
+      {
+        "number": 2,
+        "question": "Is it necessary to visit the same place many times?"
+      },
+      {
+        "number": 3,
+        "question": "What do young people like to do in their leisure time?"
+      },
+      {
+        "number": 6,
+        "question": "What are the differences between big cities and small cities?"
+      }
+    ]
+  },
+  {
+    "topic": "Describe a person who has chosen a career in the medical field (e.g. a doctor, a nurse)",
+    "type": 2,
+    "questionsOne": [],
+    "questionTwo": "Describe a person who has chosen a career in the medical field (e.g. a doctor, a nurse)",
+    "questionThree": [
+      {
+        "number": 1,
+        "question": "Why do some people choose to work in the medical field?"
+      },
+      {
+        "number": 2,
+        "question": "How does working in a medical-related profession impact a person's life?"
+      },
+      {
+        "number": 3,
+        "question": "Do you think medical professionals are valued in society?"
+      },
+      {
+        "number": 4,
+        "question": "In your opinion, which profession is more important: doctors or nurses?"
+      },
+      {
+        "number": 5,
+        "question": "How can technology influence medical-related professions in the future?"
+      },
+      {
+        "number": 6,
+        "question": "What qualities are essential for someone to succeed in a medical profession?"
+      },
+      {
+        "number": 7,
+        "question": "Can a hospital function effectively without nurses?"
+      },
+      {
+        "number": 8,
+        "question": "What are the differences between the work of a doctor and a nurse?"
+      },
+      {
+        "number": 9,
+        "question": "Do you think it is necessary to learn first aid skills?"
+      },
+      {
+        "number": 10,
+        "question": "Do you think that doctors and nurses are not paid enough?"
+      }
+    ]
+  },
+  {
+    "topic": "Describe a time when you took a risk and you knew something bad might happen, but it had a positive result",
+    "type": 2,
+    "questionsOne": [],
+    "questionTwo": "Describe a time when you took a risk and you knew something bad might happen, but it had a positive result",
+    "questionThree": [
+      {
+        "number": 1,
+        "question": "What risks do parents often tell their children to avoid?"
+      },
+      {
+        "number": 2,
+        "question": "Should teachers read to children about danger in stories to avoid danger in real life?"
+      },
+      {
+        "number": 3,
+        "question": "Why do older people take fewer risks than younger people?"
+      },
+      {
+        "number": 4,
+        "question": "Why do some people enjoy sports activities that involve risk?"
+      },
+      {
+        "number": 5,
+        "question": "Why do people like watching risky activities in action movies?"
+      },
+      {
+        "number": 6,
+        "question": "Are there any benefits of experiencing risky activities in video games?"
+      },
+      {
+        "number": 7,
+        "question": "Do you think everything people do involves some degree of risk?"
+      },
+      {
+        "number": 8,
+        "question": "Is it a good thing for leaders to be risk-takers?"
+      },
+      {
+        "number": 9,
+        "question": "Should society ever discourage risk-taking?"
+      }
+    ]
+  },
+  {
+    "topic": "Describe an interesting old person you met",
+    "type": 2,
+    "questionsOne": [],
+    "questionTwo": "Describe an interesting old person you met",
+    "questionThree": [
+      {
+        "number": 1,
+        "question": "Do you think old people and young people can share interests?"
+      },
+      {
+        "number": 2,
+        "question": "What can old people teach young people?"
+      },
+      {
+        "number": 3,
+        "question": "Is it easy for young people and old people to make friends with each other?"
+      },
+      {
+        "number": 4,
+        "question": "Are there benefits when one person is interested in another person? Why?"
+      },
+      {
+        "number": 5,
+        "question": "Do you think people are more selfish or self-centered now than in the past?"
+      },
+      {
+        "number": 6,
+        "question": "What benefits can people get if they are self-centered?"
+      },
+      {
+        "number": 7,
+        "question": "What do you think people like to do when they are old?"
+      },
+      {
+        "number": 8,
+        "question": "Do you think grandparents can always have a good relationship with their grandchildren?"
+      },
+      {
+        "number": 9,
+        "question": "What can grandparents and grandchildren learn from each other?"
+      }
+    ]
+  },
+  {
+    "topic": "Describe something you bought but returned in the end",
+    "type": 2,
+    "questionsOne": [],
+    "questionTwo": "Describe something you bought but returned in the end",
+    "questionThree": [
+      {
+        "number": 1,
+        "question": "Why do many people enjoy shopping online?"
+      },
+      {
+        "number": 2,
+        "question": "Do you think advertisements should be strictly regulated?"
+      }
+    ]
+  },
+  {
+    "topic": "Describe a person you spend a lot of time with",
+    "type": 2,
+    "questionsOne": [],
+    "questionTwo": "Describe a person you spend a lot of time with",
+    "questionThree": [
+      {
+        "number": 1,
+        "question": "What kind of person do most people like to spend time with?"
+      },
+      {
+        "number": 2,
+        "question": "What kind of leaders do you like?"
+      }
+    ]
+  },
+  {
+    "topic": "Describe your grandpa or grandma's job",
+    "type": 2,
+    "questionsOne": [],
+    "questionTwo": "Describe your grandpa or grandma's job",
+    "questionThree": []
+  }
+]

@@ -92,6 +92,6 @@ REQUEST_FINGERPRINTER_IMPLEMENTATION = "2.7"
 TWISTED_REACTOR = "twisted.internet.asyncioreactor.AsyncioSelectorReactor"
 FEED_EXPORT_ENCODING = "utf-8"
 
-DOWNLOADER_MIDDLEWARES = {
-    'ielts_data_collection.middlewares.SeleniumMiddleware': 543,
-}
+# DOWNLOADER_MIDDLEWARES = {
+#     'ielts_data_collection.middlewares.SeleniumMiddleware': 543,
+# }
