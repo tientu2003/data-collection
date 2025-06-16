@@ -28,8 +28,8 @@ class SpeakingExamSpider(scrapy.Spider):
                 "topic": topic,
                 "type":1,
                 "questionsOne": questions,
-                "questionTwo": [],
-                "questionThree": []
+                "questionsTwo": "",
+                "questionsThree": []
             })
         rows = tables[1].xpath('.//tr')
         for row in rows:
@@ -49,8 +49,8 @@ class SpeakingExamSpider(scrapy.Spider):
                 "topic": question_two,
                 "type":2,
                 "questionsOne": [],
-                "questionTwo": question_two,
-                "questionThree": questions_three
+                "questionsTwo": question_two,
+                "questionsThree": questions_three
             })
         for item in data:
             yield item
